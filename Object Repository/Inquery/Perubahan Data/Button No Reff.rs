@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button No Reff</name>
+   <tag></tag>
+   <elementGuidId>f9710d2d-029f-4b8c-af09-d07d6116893c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form']/div[2]/table/tbody/tr/td[7]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.referenceNumber > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dfa0de6f-13ed-4a77-ba2a-10265a828f97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/emoney-admin/ind/monitor/adminactivitylist:viewdetail/4031/User/DAT000003083?_csrf=f9673b4a-483a-45f3-b761-3c52cfce3732</value>
+      <webElementGuid>a90f07f8-b953-45c3-9eaa-eac7ee74843d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DAT000003083</value>
+      <webElementGuid>d1b68073-28bf-47d8-a457-f05c81acbb40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form&quot;)/div[@class=&quot;t-data-grid&quot;]/table[@class=&quot;t-data-grid&quot;]/tbody[1]/tr[@class=&quot;t-first t-last&quot;]/td[@class=&quot;referenceNumber&quot;]/a[1]</value>
+      <webElementGuid>64314065-1301-4491-966c-79c8d48f30fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form']/div[2]/table/tbody/tr/td[7]/a</value>
+      <webElementGuid>1a15cb01-8f42-4161-aa14-a50a4700c4cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'DAT000003083')]</value>
+      <webElementGuid>12f52fcd-50d1-4551-9c5e-8f91aa3adfd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sukses'])[1]/following::a[1]</value>
+      <webElementGuid>9976c64d-0f43-4826-940b-7aad6e3c2713</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hapus'])[1]/following::a[1]</value>
+      <webElementGuid>27533558-a02e-44ec-9af4-bffe732715aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::a[1]</value>
+      <webElementGuid>e8d0bee6-78dd-46e1-b2d1-654862799e54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::a[1]</value>
+      <webElementGuid>51051753-4f57-40b5-93a4-6ffc0a8f42f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='DAT000003083']/parent::*</value>
+      <webElementGuid>bfe60e72-a9be-4595-8074-8769f21cec12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/emoney-admin/ind/monitor/adminactivitylist:viewdetail/4031/User/DAT000003083?_csrf=f9673b4a-483a-45f3-b761-3c52cfce3732')]</value>
+      <webElementGuid>a3748f63-57c4-4f0e-b8a1-e70afdda28cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/a</value>
+      <webElementGuid>feb61f10-b406-4597-acc5-8d9e0e6d676f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/emoney-admin/ind/monitor/adminactivitylist:viewdetail/4031/User/DAT000003083?_csrf=f9673b4a-483a-45f3-b761-3c52cfce3732' and (text() = 'DAT000003083' or . = 'DAT000003083')]</value>
+      <webElementGuid>0f0277c0-c01e-4bdd-bff5-0a037f467b17</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

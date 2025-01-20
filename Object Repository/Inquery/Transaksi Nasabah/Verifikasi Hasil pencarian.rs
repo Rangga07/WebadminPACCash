@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Verifikasi Hasil pencarian</name>
+   <tag></tag>
+   <elementGuidId>bf228bf9-06d0-47c9-b8c9-cd8629b4a89b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form']/div[2]/table/tbody/tr/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.valueDate</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>5be170ad-8eb6-4be7-b663-238eaa3a892b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>valueDate</value>
+      <webElementGuid>fece314c-8d95-4bdc-828d-cd93c80e4ed7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>18-Dec-2024 17:28</value>
+      <webElementGuid>2183da04-020c-4d8b-af45-541f77b9d518</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form&quot;)/div[@class=&quot;t-data-grid&quot;]/table[@class=&quot;t-data-grid&quot;]/tbody[1]/tr[@class=&quot;t-first&quot;]/td[@class=&quot;valueDate&quot;]</value>
+      <webElementGuid>341604ae-6f46-4dbe-9d5f-73d8f108a054</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form']/div[2]/table/tbody/tr/td</value>
+      <webElementGuid>ea770096-b359-4035-9654-a1ad5d30ff5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Reff Partner'])[1]/following::td[1]</value>
+      <webElementGuid>60859a9e-5cfb-4686-b118-a9c29ed8267b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Partner'])[1]/following::td[1]</value>
+      <webElementGuid>78d1ba09-f83a-42ee-91f0-74fc7cbb87d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top Up Saldo from Channel'])[1]/preceding::td[2]</value>
+      <webElementGuid>d07ecf53-e1b5-4ec3-b8bb-cd0824c3f522</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sukses'])[2]/preceding::td[6]</value>
+      <webElementGuid>9dd47a36-6b82-4c61-b8c2-d82bfebe6027</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/tbody/tr/td</value>
+      <webElementGuid>3732efd1-8383-4f3e-ad8a-e5eea764eba1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '18-Dec-2024 17:28' or . = '18-Dec-2024 17:28')]</value>
+      <webElementGuid>6b98ec5f-0911-4b12-9f29-fff05961208f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

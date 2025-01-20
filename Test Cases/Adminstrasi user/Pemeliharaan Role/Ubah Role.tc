@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Ubah Role</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2c34d27e-399a-4df1-9847-244f3dc49def</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8eea5e6e-3fe7-4970-b211-a478dbc6e63f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>17cfbad8-a580-44ac-93da-9999f4fa8c24</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'EditRole'</defaultValue>
+      <description></description>
+      <id>8eea5e6e-3fe7-4970-b211-a478dbc6e63f</id>
+      <masked>false</masked>
+      <name>Profile</name>
+   </variable>
+   <variable>
+      <defaultValue>'Percobaan Edit Role'</defaultValue>
+      <description></description>
+      <id>17cfbad8-a580-44ac-93da-9999f4fa8c24</id>
+      <masked>false</masked>
+      <name>Deskripsi</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Otorisasi</name>
+   <tag></tag>
+   <elementGuidId>0d40e5aa-47d5-4809-8f6f-0301d6e3d62d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mm_list']/h3[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3:nth-of-type(7)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>2eb709c4-b3c0-48c0-a111-b0524d2364a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Otorisasi
+</value>
+      <webElementGuid>d53b06f4-8a68-4871-b76d-54db721971f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mm_list&quot;)/h3[7]</value>
+      <webElementGuid>c8be03df-010c-45ee-9418-6732d9958c68</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mm_list']/h3[7]</value>
+      <webElementGuid>df65aee9-129e-498c-9629-2e8db2631d4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laporan Transaksi Promo'])[1]/following::h3[1]</value>
+      <webElementGuid>f7cb0503-b588-49c4-a2bf-e769d5b1957a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laporan Promo'])[1]/following::h3[1]</value>
+      <webElementGuid>2b323104-58b8-42dc-a8ed-7d7137ea50d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Otorisasi Parameter'])[1]/preceding::h3[1]</value>
+      <webElementGuid>115cb7e9-b0d5-4acc-8ea4-0aa72167716d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Otorisasi Reset User Emoney'])[1]/preceding::h3[1]</value>
+      <webElementGuid>de9e0598-0b5c-4b69-9209-7c4cba9eb922</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Otorisasi']/parent::*</value>
+      <webElementGuid>2ddc5f66-67e1-4903-8cc0-20005d0fad2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3[7]</value>
+      <webElementGuid>56721332-294a-499f-a959-9b54fabe6f2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = '
+Otorisasi
+' or . = '
+Otorisasi
+')]</value>
+      <webElementGuid>ee5064c9-ce11-426c-85db-55fed2bd6c41</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

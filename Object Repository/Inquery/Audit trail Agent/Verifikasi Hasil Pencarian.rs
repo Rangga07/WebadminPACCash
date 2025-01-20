@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Verifikasi Hasil Pencarian</name>
+   <tag></tag>
+   <elementGuidId>180a9927-0c76-4b7d-b3a8-353b6da3ecd6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form']/div[2]/table/tbody/tr/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.createdby</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>f96babb7-dab5-429b-aa86-236cab354b5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>createdby</value>
+      <webElementGuid>af4b73f6-f5e9-4327-a492-b8aa34237769</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+PTBPRKAR5190
+</value>
+      <webElementGuid>012474e3-c0e2-4919-934f-18d86c9bd751</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form&quot;)/div[@class=&quot;t-data-grid&quot;]/table[@class=&quot;table_grid&quot;]/tbody[1]/tr[@class=&quot;even t-first&quot;]/td[@class=&quot;createdby&quot;]</value>
+      <webElementGuid>1cbddaec-3c3d-467d-b006-8b4e65464726</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form']/div[2]/table/tbody/tr/td</value>
+      <webElementGuid>fda8b284-6031-4777-9ceb-83409eabd8a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keterangan'])[1]/following::td[1]</value>
+      <webElementGuid>15c55700-b51a-48df-b9ce-7c3fb1666003</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Referensi'])[2]/following::td[1]</value>
+      <webElementGuid>22103f69-e45c-4a83-a406-4562dd9928ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login Sukses'])[1]/preceding::td[2]</value>
+      <webElementGuid>522f6593-baaf-46e9-bf9a-e4250c873b10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='M78E50BEDF10'])[1]/preceding::td[3]</value>
+      <webElementGuid>6f78c995-3ebe-41bc-8d2b-a6e4ea628830</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PTBPRKAR5190']/parent::*</value>
+      <webElementGuid>cfc66cc7-0802-458a-9e95-603dbaccafad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/tbody/tr/td</value>
+      <webElementGuid>fe61c736-a1e7-4f01-87ac-0e088ba34468</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+PTBPRKAR5190
+' or . = '
+PTBPRKAR5190
+')]</value>
+      <webElementGuid>0c23d1b8-5024-47c5-9110-4c28206502a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

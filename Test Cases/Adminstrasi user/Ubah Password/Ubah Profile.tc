@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Ubah Profile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c97e81c1-3ebe-4419-b7e0-9f7bf4497a61</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>82d612e4-4ca2-4191-a115-53cfff56d563</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>20d1eb00-39e7-42c0-81c8-0baadccf375c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>81c3aa60-787d-4192-becf-cda9cd146970</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Percobaan@gmail.com'</defaultValue>
+      <description></description>
+      <id>82d612e4-4ca2-4191-a115-53cfff56d563</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'0891234512345'</defaultValue>
+      <description></description>
+      <id>20d1eb00-39e7-42c0-81c8-0baadccf375c</id>
+      <masked>false</masked>
+      <name>noTelepon</name>
+   </variable>
+   <variable>
+      <defaultValue>'Pactindo11?'</defaultValue>
+      <description></description>
+      <id>81c3aa60-787d-4192-becf-cda9cd146970</id>
+      <masked>false</masked>
+      <name>passwordBaru</name>
+   </variable>
+</TestCaseEntity>

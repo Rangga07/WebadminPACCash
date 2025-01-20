@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Emoney</name>
+   <tag></tag>
+   <elementGuidId>3034ebdb-55e5-41ce-b0bf-bf84ed9a9a62</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mm_list']/h3[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3:nth-of-type(3)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>1252ddb3-f737-453d-be6f-fc478ce2c0c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Emoney
+</value>
+      <webElementGuid>275118f6-0a28-49b3-84a9-97e9d1848dde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mm_list&quot;)/h3[3]</value>
+      <webElementGuid>b7b3565d-5ae3-4261-97bb-9685a7e629e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mm_list']/h3[3]</value>
+      <webElementGuid>752df5c5-d735-4f66-b7a6-e3fab2ef6b71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log SMS'])[1]/following::h3[1]</value>
+      <webElementGuid>0062e102-7a57-4442-a8bd-02e555542fc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaksi Nasabah'])[1]/following::h3[1]</value>
+      <webElementGuid>d39f4ed8-4c20-48a5-a75a-7191f3559fca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Limit Emoney'])[1]/preceding::h3[1]</value>
+      <webElementGuid>df48f531-6f1d-496e-951c-97c7f06c2bc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Parameter Emoney'])[1]/preceding::h3[1]</value>
+      <webElementGuid>527c3d31-6e53-4a58-9a7b-e3a7ef4a4e62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3[3]</value>
+      <webElementGuid>1f9e2609-3efe-4a7d-bfa4-1224f4500630</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = '
+Emoney
+' or . = '
+Emoney
+')]</value>
+      <webElementGuid>d6e16b07-a07b-4028-ad26-09341cb2e393</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Verifikasi Hasil Pencarian</name>
+   <tag></tag>
+   <elementGuidId>5abba617-13ed-4c36-a318-c1da2fc88ea5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form']/div[2]/table/tbody/tr/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.createdby</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>634839aa-3823-454b-8929-fd66d5372fb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>createdby</value>
+      <webElementGuid>fc285811-b63b-4adc-8344-dfbb8500c88a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+RISWAN
+</value>
+      <webElementGuid>6a45355c-655c-49ba-8c89-37c5e6e1fb1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form&quot;)/div[@class=&quot;t-data-grid&quot;]/table[@class=&quot;t-data-grid&quot;]/tbody[1]/tr[@class=&quot;even t-first&quot;]/td[@class=&quot;createdby&quot;]</value>
+      <webElementGuid>9c83cc7c-6aeb-4b0c-9981-32c776ec8186</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form']/div[2]/table/tbody/tr/td</value>
+      <webElementGuid>56e1ee07-34b3-4cef-b814-14b990cab97c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keterangan'])[1]/following::td[1]</value>
+      <webElementGuid>f3a3f806-40a1-4185-886d-b469bf6b3195</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Referensi'])[2]/following::td[1]</value>
+      <webElementGuid>f9ac844d-d70a-45b0-8070-16ebc113c0d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Lihat Aktivitas User ', &quot;'&quot;, '22Dec-19Dec', &quot;'&quot;, '')])[1]/preceding::td[2]</value>
+      <webElementGuid>1f786e39-4f18-43f5-8f5d-0f49f2b4fe25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MEA9A5A4032B'])[1]/preceding::td[3]</value>
+      <webElementGuid>9578b720-564d-423b-8c2d-30657a3ac927</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='RISWAN']/parent::*</value>
+      <webElementGuid>a77467fb-54f8-4c27-a6f1-19e3d27a0849</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/tbody/tr/td</value>
+      <webElementGuid>8d573ac1-19f4-44d7-bbb1-f529924eb080</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+RISWAN
+' or . = '
+RISWAN
+')]</value>
+      <webElementGuid>0a27d1aa-9166-4d61-b9cc-9b43ea16ca98</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Logout</name>
+   <tag></tag>
+   <elementGuidId>d46c438d-48ab-4197-80f6-f24e89c6dfd4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header-top']/div/p/b/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>53018cc9-3717-4da0-b4c5-92ac483f212d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/emoney-admin/ind/user/approval/maintenanceuserapprovaldetail.layout.logout?_csrf=28986654-641a-471e-a470-f894712f8d48</value>
+      <webElementGuid>876a6309-ece8-4324-aeb5-3d3ca29e62d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log Out</value>
+      <webElementGuid>1e50e067-7cec-4ea1-8ead-74ab9d022039</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-top&quot;)/div[@class=&quot;info&quot;]/p[1]/b[1]/a[1]</value>
+      <webElementGuid>e315d1f7-e0e5-4746-9543-3ad2f687b3d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-top']/div/p/b/a</value>
+      <webElementGuid>76cd4ec4-4283-46f9-b0cd-4ced0c290d90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Log Out')]</value>
+      <webElementGuid>71fe54aa-2df4-4cde-88c1-ac79cfc01193</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selasa, 17 December 2024 - 15:44:09'])[1]/following::a[1]</value>
+      <webElementGuid>538dbc36-f71b-4ec2-af1b-e76105a3862d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administrasi User'])[1]/preceding::a[1]</value>
+      <webElementGuid>4f69043a-0bba-456c-ab9b-bd0c834d9911</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pemeliharaan User'])[1]/preceding::a[1]</value>
+      <webElementGuid>b34e966f-399c-44f3-83f0-dbe36b481bfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Log Out']/parent::*</value>
+      <webElementGuid>a32e87f6-4f2b-41d9-8b11-166ecea842b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/emoney-admin/ind/user/approval/maintenanceuserapprovaldetail.layout.logout?_csrf=28986654-641a-471e-a470-f894712f8d48')]</value>
+      <webElementGuid>3c72c615-45ee-4f7e-ade8-15d230f10855</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>ac37013f-a966-4943-a46b-fd32bf3295d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/emoney-admin/ind/user/approval/maintenanceuserapprovaldetail.layout.logout?_csrf=28986654-641a-471e-a470-f894712f8d48' and (text() = 'Log Out' or . = 'Log Out')]</value>
+      <webElementGuid>fbc5e808-3c51-4ba5-9f87-77e419ca9b7f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

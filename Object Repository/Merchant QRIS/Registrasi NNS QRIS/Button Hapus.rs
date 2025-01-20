@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Hapus</name>
+   <tag></tag>
+   <elementGuidId>b88491e7-052b-4236-a1d9-c142ef25acad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form']/div[3]/div/table/tbody/tr[1]/td[3]/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.action > a:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ac234be1-98c8-4b7b-89d0-ab443d2965ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/emoney-admin/ind/merchant/registrationnnsqris:delete/1?_csrf=9b34dbc9-e3c8-40a4-8f2c-50333c6582f2</value>
+      <webElementGuid>b901b2be-643d-47c5-bb9e-efad015586d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hapus </value>
+      <webElementGuid>4becc3e9-952f-4a59-9a23-67f610f5b777</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form&quot;)/div[3]/div[@class=&quot;t-data-grid&quot;]/table[@class=&quot;t-data-grid&quot;]/tbody[1]/tr[@class=&quot;t-first&quot;]/td[@class=&quot;action&quot;]/a[2]</value>
+      <webElementGuid>721d2926-7153-43f0-bd9f-d0deee2a345d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form']/div[3]/div/table/tbody/tr/td[3]/a[2]</value>
+      <webElementGuid>55ebe2ee-b68c-4fb9-a90d-1f386e3eea43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Hapus')]</value>
+      <webElementGuid>f657e438-7eef-4322-ac17-a7df7e230e3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ubah'])[1]/following::a[1]</value>
+      <webElementGuid>3eaa0d30-03d5-465d-8b53-615f074f49a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank BRI'])[1]/following::a[2]</value>
+      <webElementGuid>d256888a-ae38-402c-9964-658056a1c51b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Mandiri'])[1]/preceding::a[1]</value>
+      <webElementGuid>369c0482-b4d5-4db0-9b06-f4842e5280b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ubah'])[2]/preceding::a[1]</value>
+      <webElementGuid>aa06fdcc-b307-44c5-b7b7-3ec2cdce5ebd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hapus']/parent::*</value>
+      <webElementGuid>1affdcd6-1a69-49d9-8eff-b7a63026d593</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/emoney-admin/ind/merchant/registrationnnsqris:delete/1?_csrf=9b34dbc9-e3c8-40a4-8f2c-50333c6582f2')]</value>
+      <webElementGuid>e8d643b5-1885-48b1-84da-5cab5679682c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/a[2]</value>
+      <webElementGuid>ef292951-765c-4df3-b098-a78ee00ea4ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/emoney-admin/ind/merchant/registrationnnsqris:delete/1?_csrf=9b34dbc9-e3c8-40a4-8f2c-50333c6582f2' and (text() = 'Hapus ' or . = 'Hapus ')]</value>
+      <webElementGuid>3abb92b2-7929-475e-b99e-5dd75b03b66d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Ubah Detail produk</name>
+   <tag></tag>
+   <elementGuidId>dca920b5-2177-4d0a-baca-719af9623be7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form']/div[2]/table/tbody/tr/td[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.action > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9c2cd901-c41e-41dd-87fc-dd20cde221b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/emoney-admin/ind/product/approval/maintenancepurchasedenomlistapprovalbank:edit/109100020?_csrf=2e47dd53-634c-4f19-bfd2-8ab65500593f</value>
+      <webElementGuid>42cc954c-4907-4123-9ef2-108b58f79767</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ubah</value>
+      <webElementGuid>97ea6b3e-ceb8-44d4-a806-ed9c50de9d82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form&quot;)/div[@class=&quot;t-data-grid&quot;]/table[@class=&quot;t-data-grid&quot;]/tbody[1]/tr[@class=&quot;t-first t-last&quot;]/td[@class=&quot;action&quot;]/a[1]</value>
+      <webElementGuid>2557df86-4eaf-424f-84b7-c03485be699f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form']/div[2]/table/tbody/tr/td[4]/a</value>
+      <webElementGuid>b60456af-2a55-4875-94d4-91fa9210a5af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Ubah')])[2]</value>
+      <webElementGuid>635c07c2-4da6-4ed3-8bbf-37d70222ff61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Semua Denom'])[1]/following::a[1]</value>
+      <webElementGuid>6b232403-627d-4872-b5b5-95dba148b01c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PLN Prepaid'])[1]/following::a[1]</value>
+      <webElementGuid>e3cca714-49f7-4cc1-a046-04575e1d86d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::a[1]</value>
+      <webElementGuid>571ae09d-7734-4075-ac3b-a9401c48412f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::a[1]</value>
+      <webElementGuid>efa03225-f6a2-4c4c-8a30-5d1814317227</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ubah']/parent::*</value>
+      <webElementGuid>d2fec352-f3d1-4a36-bd8d-b15646e2c438</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/emoney-admin/ind/product/approval/maintenancepurchasedenomlistapprovalbank:edit/109100020?_csrf=2e47dd53-634c-4f19-bfd2-8ab65500593f')]</value>
+      <webElementGuid>cc19a52d-6540-4df5-b2fd-262af9b1a666</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/a</value>
+      <webElementGuid>a5045628-f1e9-4dbc-9ed8-4e7008cc628d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/emoney-admin/ind/product/approval/maintenancepurchasedenomlistapprovalbank:edit/109100020?_csrf=2e47dd53-634c-4f19-bfd2-8ab65500593f' and (text() = 'Ubah' or . = 'Ubah')]</value>
+      <webElementGuid>761957e8-3cbf-408b-8ad8-f52d65f366f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

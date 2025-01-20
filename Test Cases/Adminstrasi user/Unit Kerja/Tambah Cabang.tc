@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tambah Cabang</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>93834de6-8ed5-4d6d-af66-48d54a1910b3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a9670680-048d-4d05-afc6-8586d16336d9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>68e1a5b3-79a0-4394-9763-aaf6bef334b0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'010'</defaultValue>
+      <description></description>
+      <id>a9670680-048d-4d05-afc6-8586d16336d9</id>
+      <masked>false</masked>
+      <name>unit_Kerja</name>
+   </variable>
+   <variable>
+      <defaultValue>'Coba Kantor'</defaultValue>
+      <description></description>
+      <id>68e1a5b3-79a0-4394-9763-aaf6bef334b0</id>
+      <masked>false</masked>
+      <name>Deskripsi</name>
+   </variable>
+</TestCaseEntity>

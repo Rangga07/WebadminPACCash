@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Promo</name>
+   <tag></tag>
+   <elementGuidId>fe9cbd3f-f3db-459d-95c0-a26e5d7b02ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mm_list']/h3[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3:nth-of-type(6)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>cb37f50f-6fcd-49ec-88a3-86d81d18ea97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Promo
+</value>
+      <webElementGuid>1c6f7c64-02af-4496-89b0-8b1e7c5fdc1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mm_list&quot;)/h3[6]</value>
+      <webElementGuid>2a1a6c16-858d-45d2-9a72-47c5e11ab400</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mm_list']/h3[6]</value>
+      <webElementGuid>82213c0b-2540-484b-90aa-26add65f7a10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Sync Produk'])[1]/following::h3[1]</value>
+      <webElementGuid>133c3c8a-c9bc-407d-9c2f-65d994947e3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Produk'])[1]/following::h3[1]</value>
+      <webElementGuid>27ac6a6a-eb77-4c0f-ad1a-b78ce5c742af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Promo'])[2]/preceding::h3[1]</value>
+      <webElementGuid>452c35e3-7985-4ac8-b5f0-21eb1401ac0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laporan Promo'])[1]/preceding::h3[1]</value>
+      <webElementGuid>20be020e-ede9-4b10-b869-e9fa756b8aba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Promo']/parent::*</value>
+      <webElementGuid>408e81e6-6768-4dd2-adf0-f0499c8ede72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3[6]</value>
+      <webElementGuid>c333c604-9c3f-4282-9458-60f216072a30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = '
+Promo
+' or . = '
+Promo
+')]</value>
+      <webElementGuid>a157bd70-db85-4cb4-bb83-c2eca180ca64</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

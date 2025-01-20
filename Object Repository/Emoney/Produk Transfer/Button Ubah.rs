@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Ubah</name>
+   <tag></tag>
+   <elementGuidId>6ab93292-fae5-4437-adf9-79cd283342a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form']/div[2]/table/tbody/tr/td[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.action > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2d5b8329-f010-4469-b4eb-602132ec3f78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/emoney-admin/ind/product/approval/maintenancetransferlistapprovalbank:viewdetail/98?_csrf=d9a53816-336d-45f0-a992-036fa374c55c</value>
+      <webElementGuid>439a8c87-bfbb-429d-b114-0404e71fc5c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ubah</value>
+      <webElementGuid>e9a47bc3-60e1-4ee9-99b1-a895226b80a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form&quot;)/div[@class=&quot;t-data-grid&quot;]/table[@class=&quot;t-data-grid&quot;]/tbody[1]/tr[@class=&quot;t-first t-last&quot;]/td[@class=&quot;action&quot;]/a[1]</value>
+      <webElementGuid>dfcbe88b-fdbb-41a5-bc55-c175685ac3dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form']/div[2]/table/tbody/tr/td[3]/a</value>
+      <webElementGuid>822f2149-7269-45ce-9da5-b18f2403d564</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Ubah')])[2]</value>
+      <webElementGuid>e8f520b7-10a0-4e90-8e4d-d73534dfde74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BI Fast'])[1]/following::a[1]</value>
+      <webElementGuid>3b1d8a6f-084b-457b-886a-d85024cf6ce8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fee'])[1]/following::a[1]</value>
+      <webElementGuid>541bf28c-a65a-41d1-9c08-0283423d22ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::a[1]</value>
+      <webElementGuid>bf45ba2c-b40f-4b18-9f48-56c4be64f82a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::a[1]</value>
+      <webElementGuid>1360304e-2fff-41af-b9af-2b1620b2e9ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ubah']/parent::*</value>
+      <webElementGuid>22a7d1ba-c40f-4fd2-a2ac-71aacc59e2d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/emoney-admin/ind/product/approval/maintenancetransferlistapprovalbank:viewdetail/98?_csrf=d9a53816-336d-45f0-a992-036fa374c55c')]</value>
+      <webElementGuid>f3464ffd-4d6e-453d-8670-d30b1a98f1cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/a</value>
+      <webElementGuid>8b5cb36a-4cdc-4d99-98a2-a15b1399ec4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/emoney-admin/ind/product/approval/maintenancetransferlistapprovalbank:viewdetail/98?_csrf=d9a53816-336d-45f0-a992-036fa374c55c' and (text() = 'Ubah' or . = 'Ubah')]</value>
+      <webElementGuid>5f15c4df-cdf2-4825-859c-28e14d610697</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
