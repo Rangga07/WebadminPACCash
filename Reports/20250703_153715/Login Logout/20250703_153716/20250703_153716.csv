@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Login Logout,Chrome 138.0.7204.51,,,03-07-2025 15:37:19,03-07-2025 15:38:12,53.391s,FAILED
+,,,,,,,
+Test Cases/Login Logout/Login,Chrome 138.0.7204.51,,,03-07-2025 15:37:20,03-07-2025 15:37:37,17.168s,PASSED
+openBrowser(URL),Chrome 138.0.7204.51,,,03-07-2025 15:37:20,03-07-2025 15:37:22,2.522s,PASSED
+maximizeWindow(),Chrome 138.0.7204.51,,,03-07-2025 15:37:22,03-07-2025 15:37:22,0.040s,PASSED
+"setText(findTestObject(""Login/Input Username""), username_Login)",Chrome 138.0.7204.51,,,03-07-2025 15:37:22,03-07-2025 15:37:23,0.646s,PASSED
+"setText(findTestObject(""Login/Input Password""), password_Login)",Chrome 138.0.7204.51,,,03-07-2025 15:37:23,03-07-2025 15:37:24,0.561s,PASSED
+delay(10),Chrome 138.0.7204.51,,,03-07-2025 15:37:24,03-07-2025 15:37:34,10.026s,PASSED
+takeScreenshot(),Chrome 138.0.7204.51,,,03-07-2025 15:37:34,03-07-2025 15:37:34,0.368s,PASSED
+"click(findTestObject(""Login/Button Login""))",Chrome 138.0.7204.51,,,03-07-2025 15:37:34,03-07-2025 15:37:34,0.386s,PASSED
+delay(2),Chrome 138.0.7204.51,,,03-07-2025 15:37:34,03-07-2025 15:37:36,2.005s,PASSED
+takeScreenshot(),Chrome 138.0.7204.51,,,03-07-2025 15:37:36,03-07-2025 15:37:37,0.332s,PASSED
+,,,,,,,
+Test Cases/Login Logout/Logout,Chrome 138.0.7204.51,,,03-07-2025 15:37:37,03-07-2025 15:38:12,35.593s,FAILED
+"click(findTestObject(""Logout/Button Logout""))",Chrome 138.0.7204.51,,,03-07-2025 15:37:37,03-07-2025 15:38:12,35.543s,FAILED

@@ -1,0 +1,33 @@
+Warning: NLS unused message: QTEST in: com.kms.katalon.constants.globalMessages
+Warning: NLS missing message: QTEST_NAME in: com.kms.katalon.constants.globalMessages
+2025-07-03 15:32:37.277 INFO  c.k.katalon.core.main.TestSuiteExecutor  - START Test Suites/Login Logout
+2025-07-03 15:32:37.396 INFO  c.k.katalon.core.main.TestSuiteExecutor  - userFullName = enterprisekatalongmailcom
+2025-07-03 15:32:37.398 INFO  c.k.katalon.core.main.TestSuiteExecutor  - projectName = Web Admin PAC Cash
+2025-07-03 15:32:37.399 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostName = LAPTOP-9J8MPEQS$ - LAPTOP-9J8MPEQS
+2025-07-03 15:32:37.401 INFO  c.k.katalon.core.main.TestSuiteExecutor  - os = Windows 11 64bit
+2025-07-03 15:32:37.401 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostAddress = 172.20.30.81
+2025-07-03 15:32:37.402 INFO  c.k.katalon.core.main.TestSuiteExecutor  - katalonVersion = 10.2.3.0
+2025-07-03 15:32:37.808 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-03 15:32:37.808 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Login Logout/Login
+2025-07-03 15:32:38.127 DEBUG testcase.Login                           - 1: openBrowser(URL)
+2025-07-03 15:32:38.458 INFO  c.k.k.core.webui.driver.DriverFactory    - Starting 'Chrome' driver
+2025-07-03 15:32:38.521 INFO  c.k.k.core.webui.driver.DriverFactory    - Action delay is set to 0 milliseconds
+Jul 03, 2025 3:32:39 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 138, returning the closest version; found: 135; Please update to a Selenium version that supports CDP version 138
+2025-07-03 15:32:40.013 INFO  c.k.k.core.webui.driver.DriverFactory    - sessionId = b07525fe8d92bebd6b2b5b8ab1d96885
+2025-07-03 15:32:40.016 INFO  c.k.k.core.webui.driver.DriverFactory    - browser = Chrome 138.0.7204.51
+2025-07-03 15:32:40.016 INFO  c.k.k.core.webui.driver.DriverFactory    - platform = Windows 11
+2025-07-03 15:32:40.017 INFO  c.k.k.core.webui.driver.DriverFactory    - seleniumVersion = 4.28.1
+2025-07-03 15:32:40.026 INFO  c.k.k.core.webui.driver.DriverFactory    - proxyInformation = ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList="", isApplyToDesiredCapabilities=true }
+2025-07-03 15:32:40.554 DEBUG testcase.Login                           - 2: maximizeWindow()
+2025-07-03 15:32:40.613 DEBUG testcase.Login                           - 3: setText(findTestObject("Login/Input Username"), username_Login)
+2025-07-03 15:32:41.262 DEBUG testcase.Login                           - 4: setText(findTestObject("Login/Input Password"), password_Login)
+2025-07-03 15:32:41.814 DEBUG testcase.Login                           - 5: delay(10)
+2025-07-03 15:32:51.836 DEBUG testcase.Login                           - 6: takeScreenshot()
+2025-07-03 15:32:52.173 DEBUG testcase.Login                           - 7: click(findTestObject("Login/Button Login"))
+2025-07-03 15:32:52.522 DEBUG testcase.Login                           - 8: delay(2)
+2025-07-03 15:32:54.539 DEBUG testcase.Login                           - 9: takeScreenshot()
+2025-07-03 15:32:54.862 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Login Logout/Login
+2025-07-03 15:32:54.868 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-07-03 15:32:54.868 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Login Logout/Logout
+2025-07-03 15:32:54.912 DEBUG testcase.Logout                          - 1: click(findTestObject("Logout/Button Logout"))
