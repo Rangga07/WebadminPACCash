@@ -21,9 +21,27 @@ WebUI.click(findTestObject('Menu Utama/Button Inquiry'), FailureHandling.CONTINU
 
 WebUI.enhancedClick(findTestObject('Inquery/Button Audit Trail Agent'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.setText(findTestObject('Inquery/Audit trail Agent/Input Periode Awal'), '29-12-2023')
+WebUI.delay(2)
 
-WebUI.setText(findTestObject('Inquery/Audit trail Agent/Input Periode Akhir'), '19-12-2024')
+WebUI.takeScreenshot()
+
+WebUI.setText(findTestObject('Inquery/Audit trail Agent/Input Periode Awal'), '27-03-2025')
+
+WebUI.setText(findTestObject('Inquery/Audit trail Agent/Input Periode Akhir'), '27-03-2025')
+
+WebUI.delay(2)
+
+WebUI.takeScreenshot()
 
 WebUI.click(findTestObject('Inquery/Audit trail Agent/Button Cari'))
+
+WebUI.delay(2)
+
+WebUI.takeScreenshot()
+
+WebUI.click(findTestObject('Inquery/Button Export Excel'))
+
+WebUI.delay(2)
+
+WebUI.takeScreenshot()
 

@@ -19,19 +19,41 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.click(findTestObject('Menu Utama/Button Inquiry'), FailureHandling.CONTINUE_ON_FAILURE)
 
+WebUI.delay(2)
+
+WebUI.takeScreenshot()
+
 WebUI.click(findTestObject('Inquery/Button Data User Admin'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.setText(findTestObject('Inquery/Data user Admin/Input Username'), 'admin', FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.setText(findTestObject('Inquery/Data user Admin/Input Username'), 'agni', FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.setText(findTestObject('Inquery/Data user Admin/Input Nama'), 'admin', FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.setText(findTestObject('Inquery/Data user Admin/Input Nama'), 'agni', FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.delay(2)
+
+WebUI.takeScreenshot()
 
 WebUI.click(findTestObject('Inquery/Data user Admin/Button Cari'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.delay(2)
+
+WebUI.takeScreenshot()
+
+WebUI.click(findTestObject('Inquery/Data user Admin/Button Detail  Username'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.delay(2)
+
+WebUI.takeScreenshot()
+
+WebUI.click(findTestObject('Inquery/Data user Admin/Button Kembali Detail'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.delay(2)
+
+WebUI.takeScreenshot()
 
 WebUI.click(findTestObject('Inquery/Button Export Excel'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(2, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Inquery/Data user Admin/Button Detail  Username'), FailureHandling.CONTINUE_ON_FAILURE)
-
-WebUI.click(findTestObject('Inquery/Data user Admin/Button Kembali Detail'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.takeScreenshot()
 

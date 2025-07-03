@@ -21,11 +21,31 @@ WebUI.click(findTestObject('Menu Utama/Button Inquiry'), FailureHandling.CONTINU
 
 WebUI.enhancedClick(findTestObject('Inquery/Button Transaksi Nasabah'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.setText(findTestObject('Inquery/Transaksi Nasabah/Input Periode Awal'), '29-12-2023')
+WebUI.delay(2)
 
-WebUI.setText(findTestObject('Inquery/Transaksi Nasabah/Input Periode Akhir'), '20-12-2024')
+WebUI.takeScreenshot()
 
-WebUI.setText(findTestObject('Inquery/Transaksi Nasabah/Input No Rekening'), '070012345673')
+WebUI.setText(findTestObject('Inquery/Transaksi Nasabah/Input Periode Awal'), '27-03-2025')
+
+WebUI.setText(findTestObject('Inquery/Transaksi Nasabah/Input Periode Akhir'), '27-03-2025')
+
+WebUI.setText(findTestObject('Inquery/Transaksi Nasabah/Input No Rekening'), '085871740847')
+
+WebUI.delay(2)
+
+WebUI.takeScreenshot()
 
 WebUI.click(findTestObject('Inquery/Transaksi Nasabah/Button Cari'))
+
+WebUI.delay(2)
+
+WebUI.takeScreenshot()
+
+WebUI.scrollToElement(findTestObject('Inquery/Button Export Excel'), 0)
+
+WebUI.click(findTestObject('Inquery/Button Export Excel'))
+
+WebUI.delay(2)
+
+WebUI.takeScreenshot()
 

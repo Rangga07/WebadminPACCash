@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Inquery" time="108.349" tests="7" failures="0" errors="0">
+   <testsuite name="Inquery" tests="7" failures="0" errors="0" time="108.349" skipped="0" timestamp="2025-03-27 11:32:52" hostname="User - RISWANDHA-ADHITIA" id="Test Suites/Inquery">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244"/>
+         <property name="logFiles" value="C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743049976803.png, C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743049981333.png, C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743049984125.png, C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743049987084.png, C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743049989854.png, C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743049993200.png, C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743049997352.png, C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050002529.png, C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050005471.png, C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050008211.png, C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050012270.png, C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050016051.png, C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050018834.png, C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050021656.png, C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050025715.png, C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050030850.png, C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050033684.png, C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050036479.png, C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050038294.png, C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050040032.png, C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050043285.png, C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050046425.png, C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050050467.png, C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050054952.png, C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050057720.png, C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050065917.png, C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050070014.png, C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050074469.png, C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050077374.png, C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050080509.png"/>
+         <property name="hostName" value="User - RISWANDHA-ADHITIA"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="8.6.9.208"/>
+         <property name="browser" value="Chrome 134.0.0.0"/>
+         <property name="hostAddress" value="172.20.31.55"/>
+         <property name="sessionId" value="c51f2342ed27bdaa3b310431527b029a"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Inquery/Data User Admin/Cari Data user Admin" time="20.779" classname="Test Cases/Inquery/Data User Admin/Cari Data user Admin" status="PASSED">
+         <system-out><![CDATA[2025-03-27 11:32:52 - [TEST_CASE][PASSED] - Test Cases/Inquery/Data User Admin/Cari Data user Admin: Test Cases/Inquery/Data User Admin/Cari Data user Admin
+
+2025-03-27 11:32:52 - [TEST_STEP][PASSED] - click(findTestObject("Menu Utama/Button Inquiry"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Menu Utama/Button Inquiry' is clicked on
+
+2025-03-27 11:32:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Menu Utama/Button Inquiry' is clicked on
+
+2025-03-27 11:32:54 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2025-03-27 11:32:56 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2025-03-27 11:32:56 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2025-03-27 11:32:56 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743049976803.png]]
+
+2025-03-27 11:32:56 - [TEST_STEP][PASSED] - click(findTestObject("Inquery/Button Data User Admin"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Inquery/Button Data User Admin' is clicked on
+
+2025-03-27 11:32:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Inquery/Button Data User Admin' is clicked on
+
+2025-03-27 11:32:57 - [TEST_STEP][PASSED] - setText(findTestObject("Inquery/Data user Admin/Input Username"), "agni", CONTINUE_ON_FAILURE): Text 'agni' is set on object 'Object Repository/Inquery/Data user Admin/Input Username'
+
+2025-03-27 11:32:58 - [MESSAGE][PASSED] - Text 'agni' is set on object 'Object Repository/Inquery/Data user Admin/Input Username'
+
+2025-03-27 11:32:58 - [TEST_STEP][PASSED] - setText(findTestObject("Inquery/Data user Admin/Input Nama"), "agni", CONTINUE_ON_FAILURE): Text 'agni' is set on object 'Object Repository/Inquery/Data user Admin/Input Nama'
+
+2025-03-27 11:32:59 - [MESSAGE][PASSED] - Text 'agni' is set on object 'Object Repository/Inquery/Data user Admin/Input Nama'
+
+2025-03-27 11:32:59 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2025-03-27 11:33:01 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2025-03-27 11:33:01 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2025-03-27 11:33:01 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743049981333.png]]
+
+2025-03-27 11:33:01 - [TEST_STEP][PASSED] - click(findTestObject("Inquery/Data user Admin/Button Cari"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Inquery/Data user Admin/Button Cari' is clicked on
+
+2025-03-27 11:33:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Inquery/Data user Admin/Button Cari' is clicked on
+
+2025-03-27 11:33:01 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2025-03-27 11:33:03 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2025-03-27 11:33:03 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2025-03-27 11:33:04 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743049984125.png]]
+
+2025-03-27 11:33:04 - [TEST_STEP][PASSED] - click(findTestObject("Inquery/Data user Admin/Button Detail  Username"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Inquery/Data user Admin/Button Detail  Username' is clicked on
+
+2025-03-27 11:33:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Inquery/Data user Admin/Button Detail  Username' is clicked on
+
+2025-03-27 11:33:04 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2025-03-27 11:33:06 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2025-03-27 11:33:06 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2025-03-27 11:33:07 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743049987084.png]]
+
+2025-03-27 11:33:07 - [TEST_STEP][PASSED] - click(findTestObject("Inquery/Data user Admin/Button Kembali Detail"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Inquery/Data user Admin/Button Kembali Detail' is clicked on
+
+2025-03-27 11:33:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Inquery/Data user Admin/Button Kembali Detail' is clicked on
+
+2025-03-27 11:33:07 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2025-03-27 11:33:09 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2025-03-27 11:33:09 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2025-03-27 11:33:09 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743049989854.png]]
+
+2025-03-27 11:33:09 - [TEST_STEP][PASSED] - click(findTestObject("Inquery/Button Export Excel"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Inquery/Button Export Excel' is clicked on
+
+2025-03-27 11:33:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Inquery/Button Export Excel' is clicked on
+
+2025-03-27 11:33:10 - [TEST_STEP][PASSED] - delay(2, CONTINUE_ON_FAILURE): Delayed 2 second(s)
+
+2025-03-27 11:33:12 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2025-03-27 11:33:12 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2025-03-27 11:33:13 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743049993200.png]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Inquery/Aktivitas Nasabah/Cari Aktifitas Nasabah" time="15.015" classname="Test Cases/Inquery/Aktivitas Nasabah/Cari Aktifitas Nasabah" status="PASSED">
+         <system-out><![CDATA[2025-03-27 11:33:13 - [TEST_CASE][PASSED] - Test Cases/Inquery/Aktivitas Nasabah/Cari Aktifitas Nasabah: Test Cases/Inquery/Aktivitas Nasabah/Cari Aktifitas Nasabah
+
+2025-03-27 11:33:13 - [TEST_STEP][PASSED] - click(findTestObject("Menu Utama/Button Inquiry"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Menu Utama/Button Inquiry' is clicked on
+
+2025-03-27 11:33:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Menu Utama/Button Inquiry' is clicked on
+
+2025-03-27 11:33:14 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("Inquery/Button Aktivitas Nasabah"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Inquery/Button Aktivitas Nasabah' is clicked on
+
+2025-03-27 11:33:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Inquery/Button Aktivitas Nasabah' is clicked on
+
+2025-03-27 11:33:15 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2025-03-27 11:33:17 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2025-03-27 11:33:17 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2025-03-27 11:33:17 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743049997352.png]]
+
+2025-03-27 11:33:17 - [TEST_STEP][PASSED] - setText(findTestObject("Inquery/Aktifitas Nasabah/Input Periode Awal"), "27-03-2025", CONTINUE_ON_FAILURE): Text '27-03-2025' is set on object 'Object Repository/Inquery/Aktifitas Nasabah/Input Periode Awal'
+
+2025-03-27 11:33:18 - [MESSAGE][PASSED] - Text '27-03-2025' is set on object 'Object Repository/Inquery/Aktifitas Nasabah/Input Periode Awal'
+
+2025-03-27 11:33:18 - [TEST_STEP][PASSED] - setText(findTestObject("Inquery/Aktifitas Nasabah/Input Periode Akhir"), "27-03-2025", CONTINUE_ON_FAILURE): Text '27-03-2025' is set on object 'Object Repository/Inquery/Aktifitas Nasabah/Input Periode Akhir'
+
+2025-03-27 11:33:18 - [MESSAGE][PASSED] - Text '27-03-2025' is set on object 'Object Repository/Inquery/Aktifitas Nasabah/Input Periode Akhir'
+
+2025-03-27 11:33:18 - [TEST_STEP][PASSED] - setText(findTestObject("Inquery/Aktifitas Nasabah/Input No rekening"), "085871740847", CONTINUE_ON_FAILURE): Text '085871740847' is set on object 'Object Repository/Inquery/Aktifitas Nasabah/Input No rekening'
+
+2025-03-27 11:33:19 - [MESSAGE][PASSED] - Text '085871740847' is set on object 'Object Repository/Inquery/Aktifitas Nasabah/Input No rekening'
+
+2025-03-27 11:33:19 - [TEST_STEP][PASSED] - setText(findTestObject("Inquery/Aktifitas Nasabah/Input No Referensi"), "C55AD05AFB7F", CONTINUE_ON_FAILURE): Text 'C55AD05AFB7F' is set on object 'Object Repository/Inquery/Aktifitas Nasabah/Input No Referensi'
+
+2025-03-27 11:33:20 - [MESSAGE][PASSED] - Text 'C55AD05AFB7F' is set on object 'Object Repository/Inquery/Aktifitas Nasabah/Input No Referensi'
+
+2025-03-27 11:33:20 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2025-03-27 11:33:22 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2025-03-27 11:33:22 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2025-03-27 11:33:22 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050002529.png]]
+
+2025-03-27 11:33:22 - [TEST_STEP][PASSED] - click(findTestObject("Inquery/Aktifitas Nasabah/Button Cari"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Inquery/Aktifitas Nasabah/Button Cari' is clicked on
+
+2025-03-27 11:33:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Inquery/Aktifitas Nasabah/Button Cari' is clicked on
+
+2025-03-27 11:33:23 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2025-03-27 11:33:25 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2025-03-27 11:33:25 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2025-03-27 11:33:25 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050005471.png]]
+
+2025-03-27 11:33:25 - [TEST_STEP][PASSED] - click(findTestObject("Inquery/Button Export Excel"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Inquery/Button Export Excel' is clicked on
+
+2025-03-27 11:33:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Inquery/Button Export Excel' is clicked on
+
+2025-03-27 11:33:25 - [TEST_STEP][PASSED] - delay(2, CONTINUE_ON_FAILURE): Delayed 2 second(s)
+
+2025-03-27 11:33:27 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2025-03-27 11:33:27 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2025-03-27 11:33:28 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050008211.png]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Inquery/Audit Trail Agent/Cari Trail Agent" time="13.431" classname="Test Cases/Inquery/Audit Trail Agent/Cari Trail Agent" status="PASSED">
+         <system-out><![CDATA[2025-03-27 11:33:28 - [TEST_CASE][PASSED] - Test Cases/Inquery/Audit Trail Agent/Cari Trail Agent: Test Cases/Inquery/Audit Trail Agent/Cari Trail Agent
+
+2025-03-27 11:33:28 - [TEST_STEP][PASSED] - click(findTestObject("Menu Utama/Button Inquiry"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Menu Utama/Button Inquiry' is clicked on
+
+2025-03-27 11:33:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Menu Utama/Button Inquiry' is clicked on
+
+2025-03-27 11:33:29 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("Inquery/Button Audit Trail Agent"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Inquery/Button Audit Trail Agent' is clicked on
+
+2025-03-27 11:33:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Inquery/Button Audit Trail Agent' is clicked on
+
+2025-03-27 11:33:30 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2025-03-27 11:33:32 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2025-03-27 11:33:32 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2025-03-27 11:33:32 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050012270.png]]
+
+2025-03-27 11:33:32 - [TEST_STEP][PASSED] - setText(findTestObject("Inquery/Audit trail Agent/Input Periode Awal"), "27-03-2025"): Text '27-03-2025' is set on object 'Object Repository/Inquery/Audit trail Agent/Input Periode Awal'
+
+2025-03-27 11:33:33 - [MESSAGE][PASSED] - Text '27-03-2025' is set on object 'Object Repository/Inquery/Audit trail Agent/Input Periode Awal'
+
+2025-03-27 11:33:33 - [TEST_STEP][PASSED] - setText(findTestObject("Inquery/Audit trail Agent/Input Periode Akhir"), "27-03-2025"): Text '27-03-2025' is set on object 'Object Repository/Inquery/Audit trail Agent/Input Periode Akhir'
+
+2025-03-27 11:33:33 - [MESSAGE][PASSED] - Text '27-03-2025' is set on object 'Object Repository/Inquery/Audit trail Agent/Input Periode Akhir'
+
+2025-03-27 11:33:33 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2025-03-27 11:33:35 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2025-03-27 11:33:35 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2025-03-27 11:33:36 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050016051.png]]
+
+2025-03-27 11:33:36 - [TEST_STEP][PASSED] - click(findTestObject("Inquery/Audit trail Agent/Button Cari")): Object: 'Object Repository/Inquery/Audit trail Agent/Button Cari' is clicked on
+
+2025-03-27 11:33:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Inquery/Audit trail Agent/Button Cari' is clicked on
+
+2025-03-27 11:33:36 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2025-03-27 11:33:38 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2025-03-27 11:33:38 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2025-03-27 11:33:38 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050018834.png]]
+
+2025-03-27 11:33:38 - [TEST_STEP][PASSED] - click(findTestObject("Inquery/Button Export Excel")): Object: 'Object Repository/Inquery/Button Export Excel' is clicked on
+
+2025-03-27 11:33:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Inquery/Button Export Excel' is clicked on
+
+2025-03-27 11:33:39 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2025-03-27 11:33:41 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2025-03-27 11:33:41 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2025-03-27 11:33:41 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050021656.png]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Inquery/Audit Trail User/Cari Audit Trail User" time="14.815" classname="Test Cases/Inquery/Audit Trail User/Cari Audit Trail User" status="PASSED">
+         <system-out><![CDATA[2025-03-27 11:33:41 - [TEST_CASE][PASSED] - Test Cases/Inquery/Audit Trail User/Cari Audit Trail User: Test Cases/Inquery/Audit Trail User/Cari Audit Trail User
+
+2025-03-27 11:33:42 - [TEST_STEP][PASSED] - click(findTestObject("Menu Utama/Button Inquiry"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Menu Utama/Button Inquiry' is clicked on
+
+2025-03-27 11:33:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Menu Utama/Button Inquiry' is clicked on
+
+2025-03-27 11:33:42 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("Inquery/Button Audit Trail User"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Inquery/Button Audit Trail User' is clicked on
+
+2025-03-27 11:33:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Inquery/Button Audit Trail User' is clicked on
+
+2025-03-27 11:33:43 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2025-03-27 11:33:45 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2025-03-27 11:33:45 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2025-03-27 11:33:45 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050025715.png]]
+
+2025-03-27 11:33:45 - [TEST_STEP][PASSED] - setText(findTestObject("Inquery/Audit Trail User/Input Periode Awal"), "27-03-2025", CONTINUE_ON_FAILURE): Text '27-03-2025' is set on object 'Object Repository/Inquery/Audit Trail User/Input Periode Awal'
+
+2025-03-27 11:33:46 - [MESSAGE][PASSED] - Text '27-03-2025' is set on object 'Object Repository/Inquery/Audit Trail User/Input Periode Awal'
+
+2025-03-27 11:33:46 - [TEST_STEP][PASSED] - setText(findTestObject("Inquery/Audit Trail User/Input Periode  Akhir"), "27-03-2025", CONTINUE_ON_FAILURE): Text '27-03-2025' is set on object 'Object Repository/Inquery/Audit Trail User/Input Periode  Akhir'
+
+2025-03-27 11:33:47 - [MESSAGE][PASSED] - Text '27-03-2025' is set on object 'Object Repository/Inquery/Audit Trail User/Input Periode  Akhir'
+
+2025-03-27 11:33:47 - [TEST_STEP][PASSED] - setText(findTestObject("Inquery/Audit Trail User/Input Username"), "QA2", CONTINUE_ON_FAILURE): Text 'QA2' is set on object 'Object Repository/Inquery/Audit Trail User/Input Username'
+
+2025-03-27 11:33:47 - [MESSAGE][PASSED] - Text 'QA2' is set on object 'Object Repository/Inquery/Audit Trail User/Input Username'
+
+2025-03-27 11:33:47 - [TEST_STEP][PASSED] - setText(findTestObject("Inquery/Audit Trail User/Input No Referensi"), "M9F109730495", CONTINUE_ON_FAILURE): Text 'M9F109730495' is set on object 'Object Repository/Inquery/Audit Trail User/Input No Referensi'
+
+2025-03-27 11:33:48 - [MESSAGE][PASSED] - Text 'M9F109730495' is set on object 'Object Repository/Inquery/Audit Trail User/Input No Referensi'
+
+2025-03-27 11:33:48 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2025-03-27 11:33:50 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2025-03-27 11:33:50 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2025-03-27 11:33:50 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050030850.png]]
+
+2025-03-27 11:33:50 - [TEST_STEP][PASSED] - click(findTestObject("Inquery/Audit Trail User/Button Cari"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Inquery/Audit Trail User/Button Cari' is clicked on
+
+2025-03-27 11:33:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Inquery/Audit Trail User/Button Cari' is clicked on
+
+2025-03-27 11:33:51 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2025-03-27 11:33:53 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2025-03-27 11:33:53 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2025-03-27 11:33:53 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050033684.png]]
+
+2025-03-27 11:33:53 - [TEST_STEP][PASSED] - click(findTestObject("Inquery/Button Export Excel"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Inquery/Button Export Excel' is clicked on
+
+2025-03-27 11:33:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Inquery/Button Export Excel' is clicked on
+
+2025-03-27 11:33:54 - [TEST_STEP][PASSED] - delay(2, CONTINUE_ON_FAILURE): Delayed 2 second(s)
+
+2025-03-27 11:33:56 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2025-03-27 11:33:56 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2025-03-27 11:33:56 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050036479.png]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Inquery/Log SMS/Cari Log SMS" time="9.939" classname="Test Cases/Inquery/Log SMS/Cari Log SMS" status="PASSED">
+         <system-out><![CDATA[2025-03-27 11:33:56 - [TEST_CASE][PASSED] - Test Cases/Inquery/Log SMS/Cari Log SMS: Test Cases/Inquery/Log SMS/Cari Log SMS
+
+2025-03-27 11:33:57 - [TEST_STEP][PASSED] - click(findTestObject("Menu Utama/Button Inquiry"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Menu Utama/Button Inquiry' is clicked on
+
+2025-03-27 11:33:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Menu Utama/Button Inquiry' is clicked on
+
+2025-03-27 11:33:57 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("Inquery/Button Log SMS"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Inquery/Button Log SMS' is clicked on
+
+2025-03-27 11:33:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Inquery/Button Log SMS' is clicked on
+
+2025-03-27 11:33:58 - [TEST_STEP][PASSED] - delay(0): Delayed 0 second(s)
+
+2025-03-27 11:33:58 - [MESSAGE][PASSED] - Delayed 0 second(s)
+
+2025-03-27 11:33:58 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2025-03-27 11:33:58 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050038294.png]]
+
+2025-03-27 11:33:58 - [TEST_STEP][PASSED] - setText(findTestObject("Inquery/Log SMS/Input Periode Awal"), "27-03-2025"): Text '27-03-2025' is set on object 'Object Repository/Inquery/Log SMS/Input Periode Awal'
+
+2025-03-27 11:33:59 - [MESSAGE][PASSED] - Text '27-03-2025' is set on object 'Object Repository/Inquery/Log SMS/Input Periode Awal'
+
+2025-03-27 11:33:59 - [TEST_STEP][PASSED] - setText(findTestObject("Inquery/Log SMS/Input Periode Akhir"), "27-03-2025"): Text '27-03-2025' is set on object 'Object Repository/Inquery/Log SMS/Input Periode Akhir'
+
+2025-03-27 11:33:59 - [MESSAGE][PASSED] - Text '27-03-2025' is set on object 'Object Repository/Inquery/Log SMS/Input Periode Akhir'
+
+2025-03-27 11:33:59 - [TEST_STEP][PASSED] - delay(0): Delayed 0 second(s)
+
+2025-03-27 11:33:59 - [MESSAGE][PASSED] - Delayed 0 second(s)
+
+2025-03-27 11:33:59 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2025-03-27 11:34:00 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050040032.png]]
+
+2025-03-27 11:34:00 - [TEST_STEP][PASSED] - click(findTestObject("Inquery/Log SMS/Button Cari")): Object: 'Object Repository/Inquery/Log SMS/Button Cari' is clicked on
+
+2025-03-27 11:34:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Inquery/Log SMS/Button Cari' is clicked on
+
+2025-03-27 11:34:00 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Inquery/Log SMS/Verikasi Hasil Pencarian"), 0): Object 'Object Repository/Inquery/Log SMS/Verikasi Hasil Pencarian' is present
+
+2025-03-27 11:34:00 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2025-03-27 11:34:01 - [MESSAGE][PASSED] - Object 'Object Repository/Inquery/Log SMS/Verikasi Hasil Pencarian' is present
+
+2025-03-27 11:34:01 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2025-03-27 11:34:03 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2025-03-27 11:34:03 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2025-03-27 11:34:03 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050043285.png]]
+
+2025-03-27 11:34:03 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Inquery/Button Export Excel"), 0): Scroll to object 'Object Repository/Inquery/Button Export Excel' successfully
+
+2025-03-27 11:34:03 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2025-03-27 11:34:03 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Inquery/Button Export Excel' successfully
+
+2025-03-27 11:34:03 - [TEST_STEP][PASSED] - click(findTestObject("Inquery/Button Export Excel")): Object: 'Object Repository/Inquery/Button Export Excel' is clicked on
+
+2025-03-27 11:34:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Inquery/Button Export Excel' is clicked on
+
+2025-03-27 11:34:04 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2025-03-27 11:34:06 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2025-03-27 11:34:06 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2025-03-27 11:34:06 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050046425.png]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Inquery/Perubahan Data/Cari Perubahan Data" time="19.477" classname="Test Cases/Inquery/Perubahan Data/Cari Perubahan Data" status="PASSED">
+         <system-out><![CDATA[2025-03-27 11:34:06 - [TEST_CASE][PASSED] - Test Cases/Inquery/Perubahan Data/Cari Perubahan Data: Test Cases/Inquery/Perubahan Data/Cari Perubahan Data
+
+2025-03-27 11:34:06 - [TEST_STEP][PASSED] - click(findTestObject("Menu Utama/Button Inquiry")): Object: 'Object Repository/Menu Utama/Button Inquiry' is clicked on
+
+2025-03-27 11:34:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Menu Utama/Button Inquiry' is clicked on
+
+2025-03-27 11:34:07 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("Inquery/Button Perubahan Data")): Object: 'Object Repository/Inquery/Button Perubahan Data' is clicked on
+
+2025-03-27 11:34:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Inquery/Button Perubahan Data' is clicked on
+
+2025-03-27 11:34:08 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2025-03-27 11:34:10 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2025-03-27 11:34:10 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2025-03-27 11:34:10 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050050467.png]]
+
+2025-03-27 11:34:10 - [TEST_STEP][PASSED] - setText(findTestObject("Inquery/Perubahan Data/Input Periode awal"), "27-03-2025"): Text '27-03-2025' is set on object 'Object Repository/Inquery/Perubahan Data/Input Periode awal'
+
+2025-03-27 11:34:11 - [MESSAGE][PASSED] - Text '27-03-2025' is set on object 'Object Repository/Inquery/Perubahan Data/Input Periode awal'
+
+2025-03-27 11:34:11 - [TEST_STEP][PASSED] - setText(findTestObject("Inquery/Perubahan Data/Input Periode Akhir"), "27-03-2025"): Text '27-03-2025' is set on object 'Object Repository/Inquery/Perubahan Data/Input Periode Akhir'
+
+2025-03-27 11:34:11 - [MESSAGE][PASSED] - Text '27-03-2025' is set on object 'Object Repository/Inquery/Perubahan Data/Input Periode Akhir'
+
+2025-03-27 11:34:11 - [TEST_STEP][PASSED] - setText(findTestObject("Inquery/Perubahan Data/Input No ref"), "DAT000003778"): Text 'DAT000003778' is set on object 'Object Repository/Inquery/Perubahan Data/Input No ref'
+
+2025-03-27 11:34:12 - [MESSAGE][PASSED] - Text 'DAT000003778' is set on object 'Object Repository/Inquery/Perubahan Data/Input No ref'
+
+2025-03-27 11:34:12 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2025-03-27 11:34:14 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2025-03-27 11:34:14 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2025-03-27 11:34:15 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050054952.png]]
+
+2025-03-27 11:34:15 - [TEST_STEP][PASSED] - click(findTestObject("Inquery/Perubahan Data/Button Search")): Object: 'Object Repository/Inquery/Perubahan Data/Button Search' is clicked on
+
+2025-03-27 11:34:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Inquery/Perubahan Data/Button Search' is clicked on
+
+2025-03-27 11:34:15 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2025-03-27 11:34:17 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2025-03-27 11:34:17 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2025-03-27 11:34:17 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050057720.png]]
+
+2025-03-27 11:34:17 - [TEST_STEP][PASSED] - click(findTestObject("Inquery/Perubahan Data/Button No Reff")): Object: 'Object Repository/Inquery/Perubahan Data/Button No Reff' is clicked on
+
+2025-03-27 11:34:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Inquery/Perubahan Data/Button No Reff' is clicked on
+
+2025-03-27 11:34:18 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2025-03-27 11:34:20 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2025-03-27 11:34:20 - [TEST_STEP][PASSED] - click(findTestObject("Inquery/Perubahan Data/Button back Detail Perubahan Data"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Inquery/Perubahan Data/Button back Detail Perubahan Data' is clicked on
+
+2025-03-27 11:34:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Inquery/Perubahan Data/Button back Detail Perubahan Data' is clicked on
+
+2025-03-27 11:34:21 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2025-03-27 11:34:23 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2025-03-27 11:34:23 - [TEST_STEP][PASSED] - click(findTestObject("Inquery/Button Export Excel"), STOP_ON_FAILURE): Object: 'Object Repository/Inquery/Button Export Excel' is clicked on
+
+2025-03-27 11:34:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Inquery/Button Export Excel' is clicked on
+
+2025-03-27 11:34:23 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2025-03-27 11:34:25 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2025-03-27 11:34:25 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2025-03-27 11:34:26 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050065917.png]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Inquery/Transaksi Nasabah/Cari Transaksi Nasabah" time="14.595" classname="Test Cases/Inquery/Transaksi Nasabah/Cari Transaksi Nasabah" status="PASSED">
+         <system-out><![CDATA[2025-03-27 11:34:26 - [TEST_CASE][PASSED] - Test Cases/Inquery/Transaksi Nasabah/Cari Transaksi Nasabah: Test Cases/Inquery/Transaksi Nasabah/Cari Transaksi Nasabah
+
+2025-03-27 11:34:26 - [TEST_STEP][PASSED] - click(findTestObject("Menu Utama/Button Inquiry"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Menu Utama/Button Inquiry' is clicked on
+
+2025-03-27 11:34:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Menu Utama/Button Inquiry' is clicked on
+
+2025-03-27 11:34:26 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("Inquery/Button Transaksi Nasabah"), CONTINUE_ON_FAILURE): Object: 'Object Repository/Inquery/Button Transaksi Nasabah' is clicked on
+
+2025-03-27 11:34:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Inquery/Button Transaksi Nasabah' is clicked on
+
+2025-03-27 11:34:27 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2025-03-27 11:34:29 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2025-03-27 11:34:29 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2025-03-27 11:34:30 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050070014.png]]
+
+2025-03-27 11:34:30 - [TEST_STEP][PASSED] - setText(findTestObject("Inquery/Transaksi Nasabah/Input Periode Awal"), "27-03-2025"): Text '27-03-2025' is set on object 'Object Repository/Inquery/Transaksi Nasabah/Input Periode Awal'
+
+2025-03-27 11:34:30 - [MESSAGE][PASSED] - Text '27-03-2025' is set on object 'Object Repository/Inquery/Transaksi Nasabah/Input Periode Awal'
+
+2025-03-27 11:34:30 - [TEST_STEP][PASSED] - setText(findTestObject("Inquery/Transaksi Nasabah/Input Periode Akhir"), "27-03-2025"): Text '27-03-2025' is set on object 'Object Repository/Inquery/Transaksi Nasabah/Input Periode Akhir'
+
+2025-03-27 11:34:31 - [MESSAGE][PASSED] - Text '27-03-2025' is set on object 'Object Repository/Inquery/Transaksi Nasabah/Input Periode Akhir'
+
+2025-03-27 11:34:31 - [TEST_STEP][PASSED] - setText(findTestObject("Inquery/Transaksi Nasabah/Input No Rekening"), "085871740847"): Text '085871740847' is set on object 'Object Repository/Inquery/Transaksi Nasabah/Input No Rekening'
+
+2025-03-27 11:34:32 - [MESSAGE][PASSED] - Text '085871740847' is set on object 'Object Repository/Inquery/Transaksi Nasabah/Input No Rekening'
+
+2025-03-27 11:34:32 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2025-03-27 11:34:34 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2025-03-27 11:34:34 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2025-03-27 11:34:34 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050074469.png]]
+
+2025-03-27 11:34:34 - [TEST_STEP][PASSED] - click(findTestObject("Inquery/Transaksi Nasabah/Button Cari")): Object: 'Object Repository/Inquery/Transaksi Nasabah/Button Cari' is clicked on
+
+2025-03-27 11:34:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Inquery/Transaksi Nasabah/Button Cari' is clicked on
+
+2025-03-27 11:34:35 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2025-03-27 11:34:37 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2025-03-27 11:34:37 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2025-03-27 11:34:37 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050077374.png]]
+
+2025-03-27 11:34:37 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Inquery/Button Export Excel"), 0): Scroll to object 'Object Repository/Inquery/Button Export Excel' successfully
+
+2025-03-27 11:34:37 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2025-03-27 11:34:37 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Inquery/Button Export Excel' successfully
+
+2025-03-27 11:34:37 - [TEST_STEP][PASSED] - click(findTestObject("Inquery/Button Export Excel")): Object: 'Object Repository/Inquery/Button Export Excel' is clicked on
+
+2025-03-27 11:34:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Inquery/Button Export Excel' is clicked on
+
+2025-03-27 11:34:38 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2025-03-27 11:34:40 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2025-03-27 11:34:40 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2025-03-27 11:34:40 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_113244\\Inquery\\20250327_113244\\1743050080509.png]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2025-03-27 11:32:52 - [TEST_SUITE][PASSED] - Inquery: Test Cases/Inquery/Transaksi Nasabah/Cari Transaksi Nasabah]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

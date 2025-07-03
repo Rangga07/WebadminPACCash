@@ -27,5 +27,11 @@ WebUI.setText(findTestObject('Login/Input Password'), GlobalVariable.password_Lo
 
 WebUI.delay(10)
 
+WebUI.takeScreenshot()
+
 WebUI.click(findTestObject('Login/Button Login'))
+
+WebUI.delay(2)
+
+WebUI.takeScreenshot()
 

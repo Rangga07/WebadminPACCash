@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Hapus</name>
+   <tag></tag>
+   <elementGuidId>8bda9026-e006-46b3-bd2e-6048f0cf2ac8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;return confirm('Anda yakin akan menghapus data?');&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c2c143b3-5202-4100-bae4-89a64dffcbdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>return confirm('Anda yakin akan menghapus data?');</value>
+      <webElementGuid>acbd311f-a271-4a65-a0c1-c3cb9f681ff0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>listener</name>
+      <type>Main</type>
+      <value>onDelete</value>
+      <webElementGuid>d50b22cf-9758-4446-90b5-b3cbe163df99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/emoney-admin/ind/merchant/globalcategory:delete/1?_csrf=62c9f0a5-1b9b-4675-9fa3-d2fc462fc46a</value>
+      <webElementGuid>8279d6c3-05f3-4ed2-b20c-188c625f8b51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Hapus
+</value>
+      <webElementGuid>36dc8178-a2b8-44de-afca-5a88efbd36ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form&quot;)/div[@class=&quot;t-data-grid&quot;]/table[@class=&quot;t-data-grid&quot;]/tbody[1]/tr[@class=&quot;t-first&quot;]/td[@class=&quot;action&quot;]/a[2]</value>
+      <webElementGuid>71a3b398-1964-4849-b424-9cb22f980a18</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;return confirm('Anda yakin akan menghapus data?');&quot;]</value>
+      <webElementGuid>200dcab1-2157-4688-b0da-2eb869695f5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form']/div[2]/table/tbody/tr/td[4]/a[2]</value>
+      <webElementGuid>024f7ad0-2613-4c2b-82f5-c05743992a4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Hapus')]</value>
+      <webElementGuid>f7d750c0-dc9b-4ea7-9cc2-0f0201114bac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ubah'])[1]/following::a[1]</value>
+      <webElementGuid>550cc441-6db8-4d88-a667-cba96fb3cce5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='P2G (P2G)'])[1]/following::a[2]</value>
+      <webElementGuid>d9cb11f7-2ba9-463f-b4b7-edccdf706f90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Khusus'])[2]/preceding::a[1]</value>
+      <webElementGuid>d3f40423-9aa2-487c-8faf-c7813d12c1a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SPBU (SPBU)'])[1]/preceding::a[1]</value>
+      <webElementGuid>d9beff80-6d72-48ca-b44b-02698463e8b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hapus']/parent::*</value>
+      <webElementGuid>248dc110-a184-4995-a9ad-2673bf50082a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/emoney-admin/ind/merchant/globalcategory:delete/1?_csrf=62c9f0a5-1b9b-4675-9fa3-d2fc462fc46a')]</value>
+      <webElementGuid>e61373e0-1da4-45a0-8625-6bcefce876f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>396c402a-b73a-41dd-aeb8-157419aaa759</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/emoney-admin/ind/merchant/globalcategory:delete/1?_csrf=62c9f0a5-1b9b-4675-9fa3-d2fc462fc46a' and (text() = '
+Hapus
+' or . = '
+Hapus
+')]</value>
+      <webElementGuid>b42a99b1-3b1c-4c2f-bcec-857c26f9d665</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

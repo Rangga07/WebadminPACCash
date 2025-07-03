@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Login Logout" time="21.036" tests="2" failures="0" errors="0">
+   <testsuite name="Login Logout" tests="2" failures="0" errors="0" time="21.036" skipped="0" timestamp="2025-03-27 10:41:54" hostname="User - RISWANDHA-ADHITIA" id="Test Suites/Login Logout">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_104134\\Login Logout\\20250327_104134"/>
+         <property name="logFiles" value="C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_104134\\Login Logout\\20250327_104134\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_104134\\Login Logout\\20250327_104134\\1743046931130.png, C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_104134\\Login Logout\\20250327_104134\\1743046934074.png, C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_104134\\Login Logout\\20250327_104134\\1743046935537.png"/>
+         <property name="hostName" value="User - RISWANDHA-ADHITIA"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="8.6.9.208"/>
+         <property name="browser" value="Chrome 134.0.0.0"/>
+         <property name="hostAddress" value="172.20.31.55"/>
+         <property name="sessionId" value="8f5fb74d511cce358191f4f065d501d8"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Login Logout/Login" time="19.286" classname="Test Cases/Login Logout/Login" status="PASSED">
+         <system-out><![CDATA[2025-03-27 10:41:54 - [TEST_CASE][PASSED] - Test Cases/Login Logout/Login: Test Cases/Login Logout/Login
+
+2025-03-27 10:41:55 - [TEST_STEP][PASSED] - openBrowser(URL): Browser is opened with url: 'https://cashdev.pactindo.com/emoney-admin/ind/login'
+
+2025-03-27 10:41:55 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2025-03-27 10:41:56 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2025-03-27 10:41:59 - [MESSAGE][PASSED] - Browser is opened with url: 'https://cashdev.pactindo.com/emoney-admin/ind/login'
+
+2025-03-27 10:41:59 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2025-03-27 10:41:59 - [MESSAGE][PASSED] - Current window maximized
+
+2025-03-27 10:41:59 - [TEST_STEP][PASSED] - setText(findTestObject("Login/Input Username"), username_Login): Text 'RISWAN' is set on object 'Object Repository/Login/Input Username'
+
+2025-03-27 10:42:00 - [MESSAGE][PASSED] - Text 'RISWAN' is set on object 'Object Repository/Login/Input Username'
+
+2025-03-27 10:42:00 - [TEST_STEP][PASSED] - setText(findTestObject("Login/Input Password"), password_Login): Text 'Dwidasa123' is set on object 'Object Repository/Login/Input Password'
+
+2025-03-27 10:42:00 - [MESSAGE][PASSED] - Text 'Dwidasa123' is set on object 'Object Repository/Login/Input Password'
+
+2025-03-27 10:42:00 - [TEST_STEP][PASSED] - delay(10): Delayed 10 second(s)
+
+2025-03-27 10:42:10 - [MESSAGE][PASSED] - Delayed 10 second(s)
+
+2025-03-27 10:42:10 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2025-03-27 10:42:11 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_104134\\Login Logout\\20250327_104134\\1743046931130.png]]
+
+2025-03-27 10:42:11 - [TEST_STEP][PASSED] - click(findTestObject("Login/Button Login")): Object: 'Object Repository/Login/Button Login' is clicked on
+
+2025-03-27 10:42:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/Button Login' is clicked on
+
+2025-03-27 10:42:11 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2025-03-27 10:42:13 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2025-03-27 10:42:13 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2025-03-27 10:42:14 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_104134\\Login Logout\\20250327_104134\\1743046934074.png]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Login Logout/Logout" time="1.458" classname="Test Cases/Login Logout/Logout" status="PASSED">
+         <system-out><![CDATA[2025-03-27 10:42:14 - [TEST_CASE][PASSED] - Test Cases/Login Logout/Logout: Test Cases/Login Logout/Logout
+
+2025-03-27 10:42:14 - [TEST_STEP][PASSED] - click(findTestObject("Logout/Button Logout")): Object: 'Object Repository/Logout/Button Logout' is clicked on
+
+2025-03-27 10:42:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Logout/Button Logout' is clicked on
+
+2025-03-27 10:42:15 - [TEST_STEP][PASSED] - delay(0): Delayed 0 second(s)
+
+2025-03-27 10:42:15 - [MESSAGE][PASSED] - Delayed 0 second(s)
+
+2025-03-27 10:42:15 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2025-03-27 10:42:15 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\User\\Documents\\Automation\\Project bank\\PAC cash\\Web Admin PAC Cash\\Web Admin PAC Cash\\Reports\\20250327_104134\\Login Logout\\20250327_104134\\1743046935537.png]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2025-03-27 10:41:54 - [TEST_SUITE][PASSED] - Login Logout: Test Cases/Login Logout/Logout]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

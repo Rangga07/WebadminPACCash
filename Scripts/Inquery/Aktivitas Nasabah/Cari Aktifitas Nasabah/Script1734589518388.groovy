@@ -21,17 +21,31 @@ WebUI.click(findTestObject('Menu Utama/Button Inquiry'), FailureHandling.CONTINU
 
 WebUI.enhancedClick(findTestObject('Inquery/Button Aktivitas Nasabah'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.setText(findTestObject('Inquery/Aktifitas Nasabah/Input Periode Awal'), '29-12-2023', FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.delay(2)
 
-WebUI.setText(findTestObject('Inquery/Aktifitas Nasabah/Input Periode Akhir'), '19-12-2024', FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.takeScreenshot()
 
-WebUI.setText(findTestObject('Inquery/Aktifitas Nasabah/Input No rekening'), '087750106929', FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.setText(findTestObject('Inquery/Aktifitas Nasabah/Input Periode Awal'), '27-03-2025', FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.setText(findTestObject('Inquery/Aktifitas Nasabah/Input No Referensi'), '65FB6E045BA4', FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.setText(findTestObject('Inquery/Aktifitas Nasabah/Input Periode Akhir'), '27-03-2025', FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.setText(findTestObject('Inquery/Aktifitas Nasabah/Input No rekening'), '085871740847', FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.setText(findTestObject('Inquery/Aktifitas Nasabah/Input No Referensi'), 'C55AD05AFB7F', FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.delay(2)
+
+WebUI.takeScreenshot()
 
 WebUI.click(findTestObject('Inquery/Aktifitas Nasabah/Button Cari'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.delay(2)
+
+WebUI.takeScreenshot()
 
 WebUI.click(findTestObject('Inquery/Button Export Excel'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(2, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.takeScreenshot()
 

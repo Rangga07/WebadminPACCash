@@ -21,15 +21,31 @@ WebUI.click(findTestObject('Menu Utama/Button Inquiry'), FailureHandling.CONTINU
 
 WebUI.enhancedClick(findTestObject('Inquery/Button Log SMS'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.setText(findTestObject('Inquery/Log SMS/Input Periode Awal'), '29-12-2023')
+WebUI.delay(0)
 
-WebUI.setText(findTestObject('Inquery/Log SMS/Input Periode Akhir'), '20-12-2024')
+WebUI.takeScreenshot()
+
+WebUI.setText(findTestObject('Inquery/Log SMS/Input Periode Awal'), '27-03-2025')
+
+WebUI.setText(findTestObject('Inquery/Log SMS/Input Periode Akhir'), '27-03-2025')
+
+WebUI.delay(0)
+
+WebUI.takeScreenshot()
 
 WebUI.click(findTestObject('Inquery/Log SMS/Button Cari'))
 
 WebUI.verifyElementPresent(findTestObject('Inquery/Log SMS/Verikasi Hasil Pencarian'), 0)
 
+WebUI.delay(2)
+
+WebUI.takeScreenshot()
+
 WebUI.scrollToElement(findTestObject('Inquery/Button Export Excel'), 0)
 
 WebUI.click(findTestObject('Inquery/Button Export Excel'))
+
+WebUI.delay(2)
+
+WebUI.takeScreenshot()
 

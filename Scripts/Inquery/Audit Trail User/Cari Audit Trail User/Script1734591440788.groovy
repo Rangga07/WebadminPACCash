@@ -21,17 +21,31 @@ WebUI.click(findTestObject('Menu Utama/Button Inquiry'), FailureHandling.CONTINU
 
 WebUI.enhancedClick(findTestObject('Inquery/Button Audit Trail User'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.setText(findTestObject('Inquery/Audit Trail User/Input Periode Awal'), '28-12-2023', FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.delay(2)
 
-WebUI.setText(findTestObject('Inquery/Audit Trail User/Input Periode  Akhir'), '19-12-2024', FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.takeScreenshot()
 
-WebUI.setText(findTestObject('Inquery/Audit Trail User/Input Username'), 'RISWAN', FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.setText(findTestObject('Inquery/Audit Trail User/Input Periode Awal'), '27-03-2025', FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.setText(findTestObject('Inquery/Audit Trail User/Input No Referensi'), 'M155E04A27FC', FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.setText(findTestObject('Inquery/Audit Trail User/Input Periode  Akhir'), '27-03-2025', FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.setText(findTestObject('Inquery/Audit Trail User/Input Username'), 'QA2', FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.setText(findTestObject('Inquery/Audit Trail User/Input No Referensi'), 'M9F109730495', FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.delay(2)
+
+WebUI.takeScreenshot()
 
 WebUI.click(findTestObject('Inquery/Audit Trail User/Button Cari'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.delay(2)
+
+WebUI.takeScreenshot()
 
 WebUI.click(findTestObject('Inquery/Button Export Excel'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(2, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.takeScreenshot()
 

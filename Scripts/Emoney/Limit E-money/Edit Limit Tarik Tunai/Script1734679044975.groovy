@@ -23,17 +23,17 @@ WebUI.enhancedClick(findTestObject('Emoney/Button Limit Emoney'), FailureHandlin
 
 WebUI.click(findTestObject('Emoney/Limit Emoney/Button Ubah Tarik Tunai'))
 
-WebUI.setText(findTestObject('Emoney/Limit Emoney/Input Min Nominal'), '20000')
+WebUI.setText(findTestObject('Emoney/Limit Emoney/Input Min Nominal'), '10000')
 
-WebUI.setText(findTestObject('Emoney/Limit Emoney/Input Max Nominal'), '20000000')
+WebUI.setText(findTestObject('Emoney/Limit Emoney/Input Max Nominal'), '10000000')
 
-WebUI.setText(findTestObject('Emoney/Limit Emoney/Input Max Harian'), '25000000')
+WebUI.setText(findTestObject('Emoney/Limit Emoney/Input Max Harian'), '20000000')
 
-WebUI.setText(findTestObject('Emoney/Limit Emoney/Input Max Bulanan'), '25000000')
+WebUI.setText(findTestObject('Emoney/Limit Emoney/Input Max Bulanan'), '20000000')
 
-WebUI.setText(findTestObject('Emoney/Limit Emoney/Input Max Frekuensi harian'), '50')
+WebUI.setText(findTestObject('Emoney/Limit Emoney/Input Max Frekuensi harian'), '40')
 
-WebUI.setText(findTestObject('Emoney/Limit Emoney/Input Max Frekuensi Bulanan'), '400')
+WebUI.setText(findTestObject('Emoney/Limit Emoney/Input Max Frekuensi Bulanan'), '300')
 
 WebUI.click(findTestObject('Emoney/Limit Emoney/Button Simpan'))
 

@@ -21,19 +21,37 @@ WebUI.click(findTestObject('Menu Utama/Button Inquiry'))
 
 WebUI.enhancedClick(findTestObject('Inquery/Button Perubahan Data'))
 
-WebUI.setText(findTestObject('Inquery/Perubahan Data/Input Periode awal'), '29-12-2023')
+WebUI.delay(2)
 
-WebUI.setText(findTestObject('Inquery/Perubahan Data/Input Periode Akhir'), '19-12-2024')
+WebUI.takeScreenshot()
 
-WebUI.setText(findTestObject('Inquery/Perubahan Data/Input No ref'), 'DAT000003083')
+WebUI.setText(findTestObject('Inquery/Perubahan Data/Input Periode awal'), '27-03-2025')
+
+WebUI.setText(findTestObject('Inquery/Perubahan Data/Input Periode Akhir'), '27-03-2025')
+
+WebUI.setText(findTestObject('Inquery/Perubahan Data/Input No ref'), 'DAT000003778')
+
+WebUI.delay(2)
+
+WebUI.takeScreenshot()
 
 WebUI.click(findTestObject('Inquery/Perubahan Data/Button Search'))
 
-WebUI.click(findTestObject('Inquery/Button Export Excel'), FailureHandling.STOP_ON_FAILURE)
+WebUI.delay(2)
+
+WebUI.takeScreenshot()
 
 WebUI.click(findTestObject('Inquery/Perubahan Data/Button No Reff'))
 
 WebUI.delay(2)
 
 WebUI.click(findTestObject('Inquery/Perubahan Data/Button back Detail Perubahan Data'), FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Inquery/Button Export Excel'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.delay(2)
+
+WebUI.takeScreenshot()
 

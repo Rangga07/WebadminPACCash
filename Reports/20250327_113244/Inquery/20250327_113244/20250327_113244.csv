@@ -1,0 +1,133 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Inquery,Chrome 134.0.0.0,,,2025-03-27 11:32:52,2025-03-27 11:34:40,1m - 48.349s,PASSED
+,,,,,,,
+Test Cases/Inquery/Data User Admin/Cari Data user Admin,Chrome 134.0.0.0,,,2025-03-27 11:32:52,2025-03-27 11:33:13,20.779s,PASSED
+"click(findTestObject(""Menu Utama/Button Inquiry""), CONTINUE_ON_FAILURE)",Chrome 134.0.0.0,,,2025-03-27 11:32:52,2025-03-27 11:32:54,1.637s,PASSED
+delay(2),Chrome 134.0.0.0,,,2025-03-27 11:32:54,2025-03-27 11:32:56,2.028s,PASSED
+takeScreenshot(),Chrome 134.0.0.0,,,2025-03-27 11:32:56,2025-03-27 11:32:56,0.397s,PASSED
+"click(findTestObject(""Inquery/Button Data User Admin""), CONTINUE_ON_FAILURE)",Chrome 134.0.0.0,,,2025-03-27 11:32:56,2025-03-27 11:32:57,0.780s,PASSED
+"setText(findTestObject(""Inquery/Data user Admin/Input Username""), ""agni"", CONTINUE_ON_FAILURE)",Chrome 134.0.0.0,,,2025-03-27 11:32:57,2025-03-27 11:32:58,0.684s,PASSED
+"setText(findTestObject(""Inquery/Data user Admin/Input Nama""), ""agni"", CONTINUE_ON_FAILURE)",Chrome 134.0.0.0,,,2025-03-27 11:32:58,2025-03-27 11:32:59,0.692s,PASSED
+delay(2),Chrome 134.0.0.0,,,2025-03-27 11:32:59,2025-03-27 11:33:01,2.004s,PASSED
+takeScreenshot(),Chrome 134.0.0.0,,,2025-03-27 11:33:01,2025-03-27 11:33:01,0.365s,PASSED
+"click(findTestObject(""Inquery/Data user Admin/Button Cari""), CONTINUE_ON_FAILURE)",Chrome 134.0.0.0,,,2025-03-27 11:33:01,2025-03-27 11:33:01,0.417s,PASSED
+delay(2),Chrome 134.0.0.0,,,2025-03-27 11:33:01,2025-03-27 11:33:03,2.015s,PASSED
+takeScreenshot(),Chrome 134.0.0.0,,,2025-03-27 11:33:03,2025-03-27 11:33:04,0.361s,PASSED
+"click(findTestObject(""Inquery/Data user Admin/Button Detail  Username""), CONTINUE_ON_FAILURE)",Chrome 134.0.0.0,,,2025-03-27 11:33:04,2025-03-27 11:33:04,0.583s,PASSED
+delay(2),Chrome 134.0.0.0,,,2025-03-27 11:33:04,2025-03-27 11:33:06,2.015s,PASSED
+takeScreenshot(),Chrome 134.0.0.0,,,2025-03-27 11:33:06,2025-03-27 11:33:07,0.365s,PASSED
+"click(findTestObject(""Inquery/Data user Admin/Button Kembali Detail""), CONTINUE_ON_FAILURE)",Chrome 134.0.0.0,,,2025-03-27 11:33:07,2025-03-27 11:33:07,0.394s,PASSED
+delay(2),Chrome 134.0.0.0,,,2025-03-27 11:33:07,2025-03-27 11:33:09,2.017s,PASSED
+takeScreenshot(),Chrome 134.0.0.0,,,2025-03-27 11:33:09,2025-03-27 11:33:09,0.359s,PASSED
+"click(findTestObject(""Inquery/Button Export Excel""), CONTINUE_ON_FAILURE)",Chrome 134.0.0.0,,,2025-03-27 11:33:09,2025-03-27 11:33:10,0.949s,PASSED
+"delay(2, CONTINUE_ON_FAILURE)",Chrome 134.0.0.0,,,2025-03-27 11:33:10,2025-03-27 11:33:12,2.009s,PASSED
+takeScreenshot(),Chrome 134.0.0.0,,,2025-03-27 11:33:12,2025-03-27 11:33:13,0.378s,PASSED
+,,,,,,,
+Test Cases/Inquery/Aktivitas Nasabah/Cari Aktifitas Nasabah,Chrome 134.0.0.0,,,2025-03-27 11:33:13,2025-03-27 11:33:28,15.015s,PASSED
+"click(findTestObject(""Menu Utama/Button Inquiry""), CONTINUE_ON_FAILURE)",Chrome 134.0.0.0,,,2025-03-27 11:33:13,2025-03-27 11:33:14,0.384s,PASSED
+"enhancedClick(findTestObject(""Inquery/Button Aktivitas Nasabah""), CONTINUE_ON_FAILURE)",Chrome 134.0.0.0,,,2025-03-27 11:33:14,2025-03-27 11:33:15,0.970s,PASSED
+delay(2),Chrome 134.0.0.0,,,2025-03-27 11:33:15,2025-03-27 11:33:17,2.004s,PASSED
+takeScreenshot(),Chrome 134.0.0.0,,,2025-03-27 11:33:17,2025-03-27 11:33:17,0.369s,PASSED
+"setText(findTestObject(""Inquery/Aktifitas Nasabah/Input Periode Awal""), ""27-03-2025"", CONTINUE_ON_FAILURE)",Chrome 134.0.0.0,,,2025-03-27 11:33:17,2025-03-27 11:33:18,0.673s,PASSED
+"setText(findTestObject(""Inquery/Aktifitas Nasabah/Input Periode Akhir""), ""27-03-2025"", CONTINUE_ON_FAILURE)",Chrome 134.0.0.0,,,2025-03-27 11:33:18,2025-03-27 11:33:18,0.711s,PASSED
+"setText(findTestObject(""Inquery/Aktifitas Nasabah/Input No rekening""), ""085871740847"", CONTINUE_ON_FAILURE)",Chrome 134.0.0.0,,,2025-03-27 11:33:18,2025-03-27 11:33:19,0.732s,PASSED
+"setText(findTestObject(""Inquery/Aktifitas Nasabah/Input No Referensi""), ""C55AD05AFB7F"", CONTINUE_ON_FAILURE)",Chrome 134.0.0.0,,,2025-03-27 11:33:19,2025-03-27 11:33:20,0.680s,PASSED
+delay(2),Chrome 134.0.0.0,,,2025-03-27 11:33:20,2025-03-27 11:33:22,2.014s,PASSED
+takeScreenshot(),Chrome 134.0.0.0,,,2025-03-27 11:33:22,2025-03-27 11:33:22,0.343s,PASSED
+"click(findTestObject(""Inquery/Aktifitas Nasabah/Button Cari""), CONTINUE_ON_FAILURE)",Chrome 134.0.0.0,,,2025-03-27 11:33:22,2025-03-27 11:33:23,0.595s,PASSED
+delay(2),Chrome 134.0.0.0,,,2025-03-27 11:33:23,2025-03-27 11:33:25,2.010s,PASSED
+takeScreenshot(),Chrome 134.0.0.0,,,2025-03-27 11:33:25,2025-03-27 11:33:25,0.354s,PASSED
+"click(findTestObject(""Inquery/Button Export Excel""), CONTINUE_ON_FAILURE)",Chrome 134.0.0.0,,,2025-03-27 11:33:25,2025-03-27 11:33:25,0.373s,PASSED
+"delay(2, CONTINUE_ON_FAILURE)",Chrome 134.0.0.0,,,2025-03-27 11:33:25,2025-03-27 11:33:27,2.007s,PASSED
+takeScreenshot(),Chrome 134.0.0.0,,,2025-03-27 11:33:27,2025-03-27 11:33:28,0.369s,PASSED
+,,,,,,,
+Test Cases/Inquery/Audit Trail Agent/Cari Trail Agent,Chrome 134.0.0.0,,,2025-03-27 11:33:28,2025-03-27 11:33:41,13.431s,PASSED
+"click(findTestObject(""Menu Utama/Button Inquiry""), CONTINUE_ON_FAILURE)",Chrome 134.0.0.0,,,2025-03-27 11:33:28,2025-03-27 11:33:29,0.392s,PASSED
+"enhancedClick(findTestObject(""Inquery/Button Audit Trail Agent""), CONTINUE_ON_FAILURE)",Chrome 134.0.0.0,,,2025-03-27 11:33:29,2025-03-27 11:33:30,0.890s,PASSED
+delay(2),Chrome 134.0.0.0,,,2025-03-27 11:33:30,2025-03-27 11:33:32,2.014s,PASSED
+takeScreenshot(),Chrome 134.0.0.0,,,2025-03-27 11:33:32,2025-03-27 11:33:32,0.369s,PASSED
+"setText(findTestObject(""Inquery/Audit trail Agent/Input Periode Awal""), ""27-03-2025"")",Chrome 134.0.0.0,,,2025-03-27 11:33:32,2025-03-27 11:33:33,0.689s,PASSED
+"setText(findTestObject(""Inquery/Audit trail Agent/Input Periode Akhir""), ""27-03-2025"")",Chrome 134.0.0.0,,,2025-03-27 11:33:33,2025-03-27 11:33:33,0.687s,PASSED
+delay(2),Chrome 134.0.0.0,,,2025-03-27 11:33:33,2025-03-27 11:33:35,2.014s,PASSED
+takeScreenshot(),Chrome 134.0.0.0,,,2025-03-27 11:33:35,2025-03-27 11:33:36,0.392s,PASSED
+"click(findTestObject(""Inquery/Audit trail Agent/Button Cari""))",Chrome 134.0.0.0,,,2025-03-27 11:33:36,2025-03-27 11:33:36,0.390s,PASSED
+delay(2),Chrome 134.0.0.0,,,2025-03-27 11:33:36,2025-03-27 11:33:38,2.005s,PASSED
+takeScreenshot(),Chrome 134.0.0.0,,,2025-03-27 11:33:38,2025-03-27 11:33:38,0.396s,PASSED
+"click(findTestObject(""Inquery/Button Export Excel""))",Chrome 134.0.0.0,,,2025-03-27 11:33:38,2025-03-27 11:33:39,0.422s,PASSED
+delay(2),Chrome 134.0.0.0,,,2025-03-27 11:33:39,2025-03-27 11:33:41,2.011s,PASSED
+takeScreenshot(),Chrome 134.0.0.0,,,2025-03-27 11:33:41,2025-03-27 11:33:41,0.375s,PASSED
+,,,,,,,
+Test Cases/Inquery/Audit Trail User/Cari Audit Trail User,Chrome 134.0.0.0,,,2025-03-27 11:33:41,2025-03-27 11:33:56,14.815s,PASSED
+"click(findTestObject(""Menu Utama/Button Inquiry""), CONTINUE_ON_FAILURE)",Chrome 134.0.0.0,,,2025-03-27 11:33:42,2025-03-27 11:33:42,0.401s,PASSED
+"enhancedClick(findTestObject(""Inquery/Button Audit Trail User""), CONTINUE_ON_FAILURE)",Chrome 134.0.0.0,,,2025-03-27 11:33:42,2025-03-27 11:33:43,0.823s,PASSED
+delay(2),Chrome 134.0.0.0,,,2025-03-27 11:33:43,2025-03-27 11:33:45,2.014s,PASSED
+takeScreenshot(),Chrome 134.0.0.0,,,2025-03-27 11:33:45,2025-03-27 11:33:45,0.371s,PASSED
+"setText(findTestObject(""Inquery/Audit Trail User/Input Periode Awal""), ""27-03-2025"", CONTINUE_ON_FAILURE)",Chrome 134.0.0.0,,,2025-03-27 11:33:45,2025-03-27 11:33:46,0.684s,PASSED
+"setText(findTestObject(""Inquery/Audit Trail User/Input Periode  Akhir""), ""27-03-2025"", CONTINUE_ON_FAILURE)",Chrome 134.0.0.0,,,2025-03-27 11:33:46,2025-03-27 11:33:47,0.675s,PASSED
+"setText(findTestObject(""Inquery/Audit Trail User/Input Username""), ""QA2"", CONTINUE_ON_FAILURE)",Chrome 134.0.0.0,,,2025-03-27 11:33:47,2025-03-27 11:33:47,0.684s,PASSED
+"setText(findTestObject(""Inquery/Audit Trail User/Input No Referensi""), ""M9F109730495"", CONTINUE_ON_FAILURE)",Chrome 134.0.0.0,,,2025-03-27 11:33:47,2025-03-27 11:33:48,0.714s,PASSED
+delay(2),Chrome 134.0.0.0,,,2025-03-27 11:33:48,2025-03-27 11:33:50,2.016s,PASSED
+takeScreenshot(),Chrome 134.0.0.0,,,2025-03-27 11:33:50,2025-03-27 11:33:50,0.354s,PASSED
+"click(findTestObject(""Inquery/Audit Trail User/Button Cari""), CONTINUE_ON_FAILURE)",Chrome 134.0.0.0,,,2025-03-27 11:33:50,2025-03-27 11:33:51,0.473s,PASSED
+delay(2),Chrome 134.0.0.0,,,2025-03-27 11:33:51,2025-03-27 11:33:53,2.007s,PASSED
+takeScreenshot(),Chrome 134.0.0.0,,,2025-03-27 11:33:53,2025-03-27 11:33:53,0.370s,PASSED
+"click(findTestObject(""Inquery/Button Export Excel""), CONTINUE_ON_FAILURE)",Chrome 134.0.0.0,,,2025-03-27 11:33:53,2025-03-27 11:33:54,0.416s,PASSED
+"delay(2, CONTINUE_ON_FAILURE)",Chrome 134.0.0.0,,,2025-03-27 11:33:54,2025-03-27 11:33:56,2.006s,PASSED
+takeScreenshot(),Chrome 134.0.0.0,,,2025-03-27 11:33:56,2025-03-27 11:33:56,0.369s,PASSED
+,,,,,,,
+Test Cases/Inquery/Log SMS/Cari Log SMS,Chrome 134.0.0.0,,,2025-03-27 11:33:56,2025-03-27 11:34:06,9.939s,PASSED
+"click(findTestObject(""Menu Utama/Button Inquiry""), CONTINUE_ON_FAILURE)",Chrome 134.0.0.0,,,2025-03-27 11:33:57,2025-03-27 11:33:57,0.386s,PASSED
+"enhancedClick(findTestObject(""Inquery/Button Log SMS""), CONTINUE_ON_FAILURE)",Chrome 134.0.0.0,,,2025-03-27 11:33:57,2025-03-27 11:33:58,0.625s,PASSED
+delay(0),Chrome 134.0.0.0,,,2025-03-27 11:33:58,2025-03-27 11:33:58,0.005s,PASSED
+takeScreenshot(),Chrome 134.0.0.0,,,2025-03-27 11:33:58,2025-03-27 11:33:58,0.393s,PASSED
+"setText(findTestObject(""Inquery/Log SMS/Input Periode Awal""), ""27-03-2025"")",Chrome 134.0.0.0,,,2025-03-27 11:33:58,2025-03-27 11:33:59,0.691s,PASSED
+"setText(findTestObject(""Inquery/Log SMS/Input Periode Akhir""), ""27-03-2025"")",Chrome 134.0.0.0,,,2025-03-27 11:33:59,2025-03-27 11:33:59,0.661s,PASSED
+delay(0),Chrome 134.0.0.0,,,2025-03-27 11:33:59,2025-03-27 11:33:59,0.004s,PASSED
+takeScreenshot(),Chrome 134.0.0.0,,,2025-03-27 11:33:59,2025-03-27 11:34:00,0.366s,PASSED
+"click(findTestObject(""Inquery/Log SMS/Button Cari""))",Chrome 134.0.0.0,,,2025-03-27 11:34:00,2025-03-27 11:34:00,0.393s,PASSED
+"verifyElementPresent(findTestObject(""Inquery/Log SMS/Verikasi Hasil Pencarian""), 0)",Chrome 134.0.0.0,,,2025-03-27 11:34:00,2025-03-27 11:34:01,0.483s,PASSED
+delay(2),Chrome 134.0.0.0,,,2025-03-27 11:34:01,2025-03-27 11:34:03,2.014s,PASSED
+takeScreenshot(),Chrome 134.0.0.0,,,2025-03-27 11:34:03,2025-03-27 11:34:03,0.367s,PASSED
+"scrollToElement(findTestObject(""Inquery/Button Export Excel""), 0)",Chrome 134.0.0.0,,,2025-03-27 11:34:03,2025-03-27 11:34:03,0.368s,PASSED
+"click(findTestObject(""Inquery/Button Export Excel""))",Chrome 134.0.0.0,,,2025-03-27 11:34:03,2025-03-27 11:34:04,0.397s,PASSED
+delay(2),Chrome 134.0.0.0,,,2025-03-27 11:34:04,2025-03-27 11:34:06,2.007s,PASSED
+takeScreenshot(),Chrome 134.0.0.0,,,2025-03-27 11:34:06,2025-03-27 11:34:06,0.367s,PASSED
+,,,,,,,
+Test Cases/Inquery/Perubahan Data/Cari Perubahan Data,Chrome 134.0.0.0,,,2025-03-27 11:34:06,2025-03-27 11:34:26,19.477s,PASSED
+"click(findTestObject(""Menu Utama/Button Inquiry""))",Chrome 134.0.0.0,,,2025-03-27 11:34:06,2025-03-27 11:34:07,0.395s,PASSED
+"enhancedClick(findTestObject(""Inquery/Button Perubahan Data""))",Chrome 134.0.0.0,,,2025-03-27 11:34:07,2025-03-27 11:34:08,0.831s,PASSED
+delay(2),Chrome 134.0.0.0,,,2025-03-27 11:34:08,2025-03-27 11:34:10,2.005s,PASSED
+takeScreenshot(),Chrome 134.0.0.0,,,2025-03-27 11:34:10,2025-03-27 11:34:10,0.379s,PASSED
+"setText(findTestObject(""Inquery/Perubahan Data/Input Periode awal""), ""27-03-2025"")",Chrome 134.0.0.0,,,2025-03-27 11:34:10,2025-03-27 11:34:11,0.690s,PASSED
+"setText(findTestObject(""Inquery/Perubahan Data/Input Periode Akhir""), ""27-03-2025"")",Chrome 134.0.0.0,,,2025-03-27 11:34:11,2025-03-27 11:34:11,0.705s,PASSED
+"setText(findTestObject(""Inquery/Perubahan Data/Input No ref""), ""DAT000003778"")",Chrome 134.0.0.0,,,2025-03-27 11:34:11,2025-03-27 11:34:12,0.712s,PASSED
+delay(2),Chrome 134.0.0.0,,,2025-03-27 11:34:12,2025-03-27 11:34:14,2.008s,PASSED
+takeScreenshot(),Chrome 134.0.0.0,,,2025-03-27 11:34:14,2025-03-27 11:34:15,0.362s,PASSED
+"click(findTestObject(""Inquery/Perubahan Data/Button Search""))",Chrome 134.0.0.0,,,2025-03-27 11:34:15,2025-03-27 11:34:15,0.382s,PASSED
+delay(2),Chrome 134.0.0.0,,,2025-03-27 11:34:15,2025-03-27 11:34:17,2.005s,PASSED
+takeScreenshot(),Chrome 134.0.0.0,,,2025-03-27 11:34:17,2025-03-27 11:34:17,0.416s,PASSED
+"click(findTestObject(""Inquery/Perubahan Data/Button No Reff""))",Chrome 134.0.0.0,,,2025-03-27 11:34:17,2025-03-27 11:34:18,0.792s,PASSED
+delay(2),Chrome 134.0.0.0,,,2025-03-27 11:34:18,2025-03-27 11:34:20,2.012s,PASSED
+"click(findTestObject(""Inquery/Perubahan Data/Button back Detail Perubahan Data""), CONTINUE_ON_FAILURE)",Chrome 134.0.0.0,,,2025-03-27 11:34:20,2025-03-27 11:34:21,0.410s,PASSED
+delay(2),Chrome 134.0.0.0,,,2025-03-27 11:34:21,2025-03-27 11:34:23,2.015s,PASSED
+"click(findTestObject(""Inquery/Button Export Excel""), STOP_ON_FAILURE)",Chrome 134.0.0.0,,,2025-03-27 11:34:23,2025-03-27 11:34:23,0.545s,PASSED
+delay(2),Chrome 134.0.0.0,,,2025-03-27 11:34:23,2025-03-27 11:34:25,2.015s,PASSED
+takeScreenshot(),Chrome 134.0.0.0,,,2025-03-27 11:34:25,2025-03-27 11:34:26,0.362s,PASSED
+,,,,,,,
+Test Cases/Inquery/Transaksi Nasabah/Cari Transaksi Nasabah,Chrome 134.0.0.0,,,2025-03-27 11:34:26,2025-03-27 11:34:40,14.595s,PASSED
+"click(findTestObject(""Menu Utama/Button Inquiry""), CONTINUE_ON_FAILURE)",Chrome 134.0.0.0,,,2025-03-27 11:34:26,2025-03-27 11:34:26,0.399s,PASSED
+"enhancedClick(findTestObject(""Inquery/Button Transaksi Nasabah""), CONTINUE_ON_FAILURE)",Chrome 134.0.0.0,,,2025-03-27 11:34:26,2025-03-27 11:34:27,0.878s,PASSED
+delay(2),Chrome 134.0.0.0,,,2025-03-27 11:34:27,2025-03-27 11:34:29,2.017s,PASSED
+takeScreenshot(),Chrome 134.0.0.0,,,2025-03-27 11:34:29,2025-03-27 11:34:30,0.376s,PASSED
+"setText(findTestObject(""Inquery/Transaksi Nasabah/Input Periode Awal""), ""27-03-2025"")",Chrome 134.0.0.0,,,2025-03-27 11:34:30,2025-03-27 11:34:30,0.691s,PASSED
+"setText(findTestObject(""Inquery/Transaksi Nasabah/Input Periode Akhir""), ""27-03-2025"")",Chrome 134.0.0.0,,,2025-03-27 11:34:30,2025-03-27 11:34:31,0.698s,PASSED
+"setText(findTestObject(""Inquery/Transaksi Nasabah/Input No Rekening""), ""085871740847"")",Chrome 134.0.0.0,,,2025-03-27 11:34:31,2025-03-27 11:34:32,0.691s,PASSED
+delay(2),Chrome 134.0.0.0,,,2025-03-27 11:34:32,2025-03-27 11:34:34,2.009s,PASSED
+takeScreenshot(),Chrome 134.0.0.0,,,2025-03-27 11:34:34,2025-03-27 11:34:34,0.378s,PASSED
+"click(findTestObject(""Inquery/Transaksi Nasabah/Button Cari""))",Chrome 134.0.0.0,,,2025-03-27 11:34:34,2025-03-27 11:34:35,0.497s,PASSED
+delay(2),Chrome 134.0.0.0,,,2025-03-27 11:34:35,2025-03-27 11:34:37,2.007s,PASSED
+takeScreenshot(),Chrome 134.0.0.0,,,2025-03-27 11:34:37,2025-03-27 11:34:37,0.402s,PASSED
+"scrollToElement(findTestObject(""Inquery/Button Export Excel""), 0)",Chrome 134.0.0.0,,,2025-03-27 11:34:37,2025-03-27 11:34:37,0.334s,PASSED
+"click(findTestObject(""Inquery/Button Export Excel""))",Chrome 134.0.0.0,,,2025-03-27 11:34:37,2025-03-27 11:34:38,0.397s,PASSED
+delay(2),Chrome 134.0.0.0,,,2025-03-27 11:34:38,2025-03-27 11:34:40,2.016s,PASSED
+takeScreenshot(),Chrome 134.0.0.0,,,2025-03-27 11:34:40,2025-03-27 11:34:40,0.372s,PASSED
