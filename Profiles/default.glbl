@@ -6,12 +6,12 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'RISWAN'</initValue>
+      <initValue>'astrid'</initValue>
       <name>username_Login</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Dwidasa123'</initValue>
+      <initValue>'Januari26*'</initValue>
       <name>password_Login</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>

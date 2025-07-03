@@ -4,10 +4,10 @@
    <name>Web Admin PAC Cash</name>
    <tag></tag>
    <UUID>919496e3-1f8a-4e69-bc44-0139c494e78d</UUID>
-   <freeLicense>true</freeLicense>
+   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
-   <modifiedEdition>FREE</modifiedEdition>
-   <modifiedVersion>9.5.0</modifiedVersion>
+   <modifiedEdition>ENTERPRISE</modifiedEdition>
+   <modifiedVersion>9.6.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
    <projectFileLocation>C:\Users\User\Documents\Web Admin PAC Cash\Web Admin PAC Cash.prj</projectFileLocation>
    <sourceContent>
